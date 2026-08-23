@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_ThunderDragonMan":"Ferocious Thunder Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_ThunderDragonMan":"It sends electricity into its foes' wounds, roasting them from the inside out. \r\nFights between <characterName id=|ThunderDragonMan|/> end in the blink of an eye.\r\n\r\nBottles its abundant electricity into <itemName id=|Bio_Battery| style=|Status_Keyword|/> for its tamer while assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_ThunderDragonMan":"While in party, \r\nhitting an enemy with a bullet increases the Attack and Defense of the Pal fighting alongside you by <Status_Up>{Passive1_EffectValue1}%</> for 5 seconds.\r\nThis effect stacks up to 30 times. (Does not stack.)\r\n\r\nBottles its abundant electricity into <itemName id=|Bio_Battery| style=|Status_Keyword|/> for its tamer while assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

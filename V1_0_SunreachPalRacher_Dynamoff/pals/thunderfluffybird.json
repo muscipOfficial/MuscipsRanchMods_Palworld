@@ -1,0 +1,42 @@
+{
+    "ThunderFluffyBird":  {
+                        "WorkSuitability_MonsterFarm":  1,
+                        "RanchActionData":  {
+                                                "ChargeMontage":  "/Game/Pal/Animation/Character/Monster/ThunderFluffyBird/AM_ThunderFluffyBird_FarSkill_ActionLoop.AM_ThunderFluffyBird_FarSkill_ActionLoop",
+                                                "FunMontage":  "/Game/Pal/Animation/Character/Monster/ThunderFluffyBird/AM_ThunderFluffyBird_Damage.AM_ThunderFluffyBird_Damage",
+                                                "ChargeFacialEye":  "EPalFacialEyeType::Pain",
+                                                "FunFacialEye":  "EPalFacialEyeType::Smile",
+                                                "SpawnSocketName":  "None",
+                                                "SpawnLocationOffset":  {
+                                                                            "X":  0.0,
+                                                                            "Y":  0.0,
+                                                                            "Z":  0.0
+                                                                        },
+                                                "SpawnItemRotator":  {
+                                                                         "Pitch":  0.0,
+                                                                         "Yaw":  0.0,
+                                                                         "Roll":  0.0
+                                                                     }
+                                            }
+                    },
+    "BOSS_ThunderFluffyBird":  {
+                             "WorkSuitability_MonsterFarm":  3,
+                             "RanchActionData":  {
+                                                     "ChargeMontage":  "/Game/Pal/Animation/Character/Monster/ThunderFluffyBird/AM_ThunderFluffyBird_FarSkill_ActionLoop.AM_ThunderFluffyBird_FarSkill_ActionLoop",
+                                                     "FunMontage":  "/Game/Pal/Animation/Character/Monster/ThunderFluffyBird/AM_ThunderFluffyBird_Damage.AM_ThunderFluffyBird_Damage",
+                                                     "ChargeFacialEye":  "EPalFacialEyeType::Pain",
+                                                     "FunFacialEye":  "EPalFacialEyeType::Smile",
+                                                     "SpawnSocketName":  "None",
+                                                     "SpawnLocationOffset":  {
+                                                                                 "X":  0.0,
+                                                                                 "Y":  0.0,
+                                                                                 "Z":  0.0
+                                                                             },
+                                                     "SpawnItemRotator":  {
+                                                                              "Pitch":  0.0,
+                                                                              "Yaw":  0.0,
+                                                                              "Roll":  0.0
+                                                                          }
+                                                 }
+                         }
+}

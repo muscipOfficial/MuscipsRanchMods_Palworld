@@ -1,0 +1,1604 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "SekhmetRanch_001A": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Wool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_001B": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_001C": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_001D": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_001E": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_001F": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_001G": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_001H": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_002A": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Wool",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_002B": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_002C": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_002D": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_002E": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_002F": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_002G": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_002H": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_003A": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Wool",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_003B": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_003C": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_003D": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_003E": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_003F": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_003G": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_003H": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_004A": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Wool",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_004B": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_004C": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_004D": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_004E": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_004F": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_004G": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_004H": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_005A": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Wool",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_005B": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_005C": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_005D": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_005E": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_005F": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_005G": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_005H": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_006A": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Wool",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_006B": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_006C": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_006D": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_006E": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_006F": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_006G": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_006H": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_007A": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Wool",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_007B": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_007C": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_007D": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_007E": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_007F": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_007G": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_007H": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_008A": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Wool",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_008B": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_008C": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_008D": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_008E": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_008F": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_008G": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_008H": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_009A": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Wool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_009B": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_009C": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_009D": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_009E": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_009F": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_009G": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_009H": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_010A": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "Wool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_010B": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_010C": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_010D": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_010E": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_010F": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_010G": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SekhmetRanch_010H": {
+            "FieldName": "CharacterSpawnItem_Sekhmet_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Wool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_001B": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_001C": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_001D": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_001E": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_001F": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_001G": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_001H": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Wool",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_002B": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_002C": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_002D": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_002E": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_002F": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_002G": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_002H": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Wool",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_003B": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_003C": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_003D": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_003E": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_003F": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_003G": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_003H": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Wool",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_004B": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_004C": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_004D": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_004E": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_004F": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_004G": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_004H": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Wool",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_005D": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_005E": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_005F": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_005G": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_005H": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Wool",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_006D": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_006E": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_006F": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_006G": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_006H": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Wool",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_007D": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_007E": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_007F": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_007G": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_007H": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Wool",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_008D": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_008E": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_008F": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_008G": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_008H": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Wool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_009D": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_009E": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_009F": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_009G": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_009H": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "Wool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_010D": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_010E": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_010F": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_010G": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSekhmetRanch_010H": {
+            "FieldName": "CharacterSpawnItem_BSekhmet_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_SnakeGirl":"Snake Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_SnakeGirl":"Whenever it's confused, it resorts to consulting with the snakes on its head.\r\nHowever, since they're all ultimately the same being, it comes to understand that nothing is understood.\r\n\r\nProlonged world tree exposure allows <characterName id=|SnakeGirl|/> to mix its saliva and venom to create <itemName id=|WorldTreeHolyWater| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_SnakeGirl":"While in party, \r\nthe player's attacks inflict <uiCommon id=|ADDITIONAL_EFFECT_Darkness| style=|Elem_Dark|/> <Status_Up>{Passive1_EffectValue1}</>. \r\n(Does not stack)\r\n\r\nProlonged world tree exposure allows <characterName id=|SnakeGirl|/> to mix its saliva and venom to create <itemName id=|WorldTreeHolyWater| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

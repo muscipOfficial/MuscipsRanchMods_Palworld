@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_ClownRabbit":"Trick-Loving Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_ClownRabbit":"A copy it created might quietly replace it, \r\nleaving even the <characterName id=|ClownRabbit|/> itself unsure whether it is still the original.\r\n\r\nCollects ancient relics across dimensions through its magical hat when assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_ClownRabbit":"While in party, \r\nwhen the player's Health falls below 50%, <characterName id=|ClownRabbit|/> generates an explosion around the player (<img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> / Power: <Status_Up>{Passive1_EffectValue1}</> / <uiCommon id=|ADDITIONAL_EFFECT_Burn| style=|Effect_Burn|/> buildup: <Status_Keyword>{ReferencePassive1_EffectValue1}</>).\r\n\r\nAdditionally, while the player's Health is below 50%, the player's Attack is increased by <Status_Up>{Passive2_EffectValue1}%</>. (Does not stack)\r\n\r\nCollects ancient relics across dimensions through its magical hat when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

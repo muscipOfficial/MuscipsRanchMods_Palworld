@@ -1,0 +1,42 @@
+{
+    "ClownRabbit":  {
+                        "WorkSuitability_MonsterFarm":  1,
+                        "RanchActionData":  {
+                                                "ChargeMontage":  "/Game/Pal/Animation/Character/Monster/ClownRabbit/AM_ClownRabbit_FarSkill_ActionLoop.AM_ClownRabbit_FarSkill_ActionLoop",
+                                                "FunMontage":  "/Game/Pal/Animation/Character/Monster/ClownRabbit/AM_ClownRabbit_FarSkill_End.AM_ClownRabbit_FarSkill_End",
+                                                "ChargeFacialEye":  "EPalFacialEyeType::Pain",
+                                                "FunFacialEye":  "EPalFacialEyeType::Smile",
+                                                "SpawnSocketName":  "None",
+                                                "SpawnLocationOffset":  {
+                                                                            "X":  0.0,
+                                                                            "Y":  0.0,
+                                                                            "Z":  0.0
+                                                                        },
+                                                "SpawnItemRotator":  {
+                                                                         "Pitch":  0.0,
+                                                                         "Yaw":  0.0,
+                                                                         "Roll":  0.0
+                                                                     }
+                                            }
+                    },
+    "BOSS_ClownRabbit":  {
+                             "WorkSuitability_MonsterFarm":  2,
+                             "RanchActionData":  {
+                                                     "ChargeMontage":  "/Game/Pal/Animation/Character/Monster/ClownRabbit/AM_ClownRabbit_FarSkill_ActionLoop.AM_ClownRabbit_FarSkill_ActionLoop",
+                                                     "FunMontage":  "/Game/Pal/Animation/Character/Monster/ClownRabbit/AM_ClownRabbit_FarSkill_End.AM_ClownRabbit_FarSkill_End",
+                                                     "ChargeFacialEye":  "EPalFacialEyeType::Pain",
+                                                     "FunFacialEye":  "EPalFacialEyeType::Smile",
+                                                     "SpawnSocketName":  "None",
+                                                     "SpawnLocationOffset":  {
+                                                                                 "X":  0.0,
+                                                                                 "Y":  0.0,
+                                                                                 "Z":  0.0
+                                                                             },
+                                                     "SpawnItemRotator":  {
+                                                                              "Pitch":  0.0,
+                                                                              "Yaw":  0.0,
+                                                                              "Roll":  0.0
+                                                                          }
+                                                 }
+                         }
+}

@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_GrassMinotaur":"Mother Nature's Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_GrassMinotaur":"The leaf on its horn cannot be removed, no matter how hard it is pulled.\r\nWhen the leaf falls on its own, <characterName id=|GrassMinotaur|/> accepts its time has come.\r\n\r\nSheds pieces of <itemName id=|Wood_Ancient| style=|Status_Keyword|/> off its horns when assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_GrassMinotaur":"When activated, \r\n<characterName id=|GrassMinotaur|/> changes the player's attack type to <img id=|ElemIcon_Grass|/><uiCommon id=|COMMON_ELEMENT_NAME_Leaf| style=|Elem_Grass|/> and increases Attack by <Status_Up>{ReferencePassive1_EffectValue1}%</>.\r\n\r\nSheds pieces of <itemName id=|Wood_Ancient| style=|Status_Keyword|/> off its horns when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

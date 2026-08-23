@@ -1,0 +1,17 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_OniGhostGirl":"Grinning Death Rancher",
+	"PARTNERSKILL_ThunderFluffyBird":"Electro-Massage Rancher",
+	"PARTNERSKILL_SleeveRabbit":"Long-Sleeved Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_OniGhostGirl":"It lives entirely for the thrill of the scare, but is utterly un-frightening.\r\nAs most cannot help but indulge it with feigned surprise for its cuteness,\r\n<characterName id=|OniGhostGirl|/> now leaves a trail of smiles in its wake.\r\n\r\nGathers <itemName id=|PalUpgradeStone| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_LONG_DESC_ThunderFluffyBird":"With so little to eat at high altitudes, \r\nit will occasionally even feast on its enemies' brains.\r\nIt is thought that groups seeking a more dependable food source \r\ndescended to lower skies, ultimately diverging into <characterName id=|ThunderBird|/>.\r\n\r\nPecks pebbles of <itemName id=|SkyIslandOre| style=|Status_Keyword|/> while assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_LONG_DESC_SleeveRabbit":"It uses the long, flowing fur on its hands to attract attention, \r\nalways taking the utmost care to keep them maintained.\r\nHighly sensitive to dirt and meticulously clean, \r\nkicking up dust nearby will invite a very disgusted glare.\r\n\r\nCombines wild plants to create something to cheer up its tamer with while assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_OniGhostGirl":"While in party, \r\nattacking enemies afflicted with <uiCommon id=|ADDITIONAL_EFFECT_Poison| style=|Effect_Poison|/> reduces their Attack by <Status_Up>{Passive1_EffectValue1}%</>. \r\n(Does not stack)\r\n\r\nGathers <itemName id=|PalUpgradeStone| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_FIRST_SPAWN_DESC_ThunderFluffyBird":"While in party, \r\nincreases the capture rate of Pals afflicted with <uiCommon id=|ADDITIONAL_EFFECT_Freeze| style=|Effect_Freeze|/>. (Does not stack)\r\n{ReferenceMsgId_CaptureRate}\r\n\r\nPecks pebbles of <itemName id=|SkyIslandOre| style=|Status_Keyword|/> while assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_FIRST_SPAWN_DESC_SleeveRabbit":"While in party, \r\nreduces the <Status_Keyword>Partner Skill cooldowns</> for other party Pals by <Status_Up>{Passive1_EffectValue2}%</>. (Does not stack)\r\n\r\nCombines wild plants to create something to cheer up its tamer with while assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

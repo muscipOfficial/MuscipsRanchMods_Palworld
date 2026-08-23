@@ -1,0 +1,14 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_RockBeast":"Power Stone Rancher",
+	"PARTNERSKILL_RockBeast_Ice":"Power Crystal Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_RockBeast":"It smashes its body against harder rocks to maintain its preferred shape.\r\nThose with noticeable dents are best left alone, much like people with a botched haircut.\r\n\r\nSheds fragments of <itemName id=|Quartz| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_LONG_DESC_RockBeast_Ice":"It basks in the sun, rotating just enough to melt its ice into its preferred shape.\r\nLopsided ones should be left alone, much like a person who was a little too bold with their sideburns.\r\n\r\nSheds fragments of <itemName id=|WorldTreeOre| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_RockBeast":"While in party, \r\nincreases player's and Pals' damage to enemies afflicted with <uiCommon id=|ADDITIONAL_EFFECT_Muddy| style=|Effect_Muddy|/> by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)\r\n\r\nSheds fragments of <itemName id=|Quartz| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_FIRST_SPAWN_DESC_RockBeast_Ice":"While in party, \r\nplayer and party Pals take <Status_Up>{Passive1_EffectValue1}%</> less <img id=|ElemIcon_Dragon|/><uiCommon id=|COMMON_ELEMENT_NAME_Dragon| style=|Elem_Dragon|/> damage. (Does not stack)\r\n\r\nSheds fragments of <itemName id=|WorldTreeOre| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

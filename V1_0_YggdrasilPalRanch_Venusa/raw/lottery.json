@@ -1,0 +1,664 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "SnakeGirlRanch_001A": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_002A": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_003A": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_004A": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_005A": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_005B": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_005C": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_006A": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_006B": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_006C": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_007A": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_007B": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_007C": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_008A": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_008B": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_008C": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_009A": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_009B": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_009C": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_010A": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_010B": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_010C": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_001A": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_002A": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_003A": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_004A": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_005A": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_005B": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_005C": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_006A": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_006B": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_006C": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_007A": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_007B": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_007C": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_008A": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_008B": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_008C": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_009A": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_009B": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_009C": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_010A": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_010B": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_010C": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}

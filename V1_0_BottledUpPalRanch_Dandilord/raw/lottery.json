@@ -1,0 +1,324 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "FlowerPrinceRanch_001A": {
+            "FieldName": "CharacterSpawnItem_FlowerPrince_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Corrosive_Solvent",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "FlowerPrinceRanch_002A": {
+            "FieldName": "CharacterSpawnItem_FlowerPrince_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Corrosive_Solvent",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "FlowerPrinceRanch_003A": {
+            "FieldName": "CharacterSpawnItem_FlowerPrince_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Corrosive_Solvent",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "FlowerPrinceRanch_004A": {
+            "FieldName": "CharacterSpawnItem_FlowerPrince_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Corrosive_Solvent",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "FlowerPrinceRanch_005A": {
+            "FieldName": "CharacterSpawnItem_FlowerPrince_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "Corrosive_Solvent",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "FlowerPrinceRanch_005B": {
+            "FieldName": "CharacterSpawnItem_FlowerPrince_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "FlowerPrinceRanch_006A": {
+            "FieldName": "CharacterSpawnItem_FlowerPrince_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "Corrosive_Solvent",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "FlowerPrinceRanch_006B": {
+            "FieldName": "CharacterSpawnItem_FlowerPrince_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "FlowerPrinceRanch_007A": {
+            "FieldName": "CharacterSpawnItem_FlowerPrince_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "Corrosive_Solvent",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "FlowerPrinceRanch_007B": {
+            "FieldName": "CharacterSpawnItem_FlowerPrince_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.08,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "FlowerPrinceRanch_008A": {
+            "FieldName": "CharacterSpawnItem_FlowerPrince_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "Corrosive_Solvent",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "FlowerPrinceRanch_008B": {
+            "FieldName": "CharacterSpawnItem_FlowerPrince_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "FlowerPrinceRanch_009A": {
+            "FieldName": "CharacterSpawnItem_FlowerPrince_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.85,
+            "StaticItemId": "Corrosive_Solvent",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "FlowerPrinceRanch_009B": {
+            "FieldName": "CharacterSpawnItem_FlowerPrince_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.15,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "FlowerPrinceRanch_010A": {
+            "FieldName": "CharacterSpawnItem_FlowerPrince_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Corrosive_Solvent",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 12,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "FlowerPrinceRanch_010B": {
+            "FieldName": "CharacterSpawnItem_FlowerPrince_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.20,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BFlowerPrinceRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BFlowerPrince_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Corrosive_Solvent",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BFlowerPrinceRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BFlowerPrince_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Corrosive_Solvent",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BFlowerPrinceRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BFlowerPrince_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Corrosive_Solvent",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BFlowerPrinceRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BFlowerPrince_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Corrosive_Solvent",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BFlowerPrinceRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BFlowerPrince_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "Corrosive_Solvent",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BFlowerPrinceRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BFlowerPrince_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BFlowerPrinceRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BFlowerPrince_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "Corrosive_Solvent",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BFlowerPrinceRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BFlowerPrince_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BFlowerPrinceRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BFlowerPrince_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "Corrosive_Solvent",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BFlowerPrinceRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BFlowerPrince_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.08,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BFlowerPrinceRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BFlowerPrince_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "Corrosive_Solvent",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BFlowerPrinceRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BFlowerPrince_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BFlowerPrinceRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BFlowerPrince_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.85,
+            "StaticItemId": "Corrosive_Solvent",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BFlowerPrinceRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BFlowerPrince_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.15,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BFlowerPrinceRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BFlowerPrince_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Corrosive_Solvent",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 12,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BFlowerPrinceRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BFlowerPrince_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.20,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}

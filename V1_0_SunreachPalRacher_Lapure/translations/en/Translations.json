@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_SleeveRabbit":"Long-Sleeved Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_SleeveRabbit":"It uses the long, flowing fur on its hands to attract attention, \r\nalways taking the utmost care to keep them maintained.\r\nHighly sensitive to dirt and meticulously clean, \r\nkicking up dust nearby will invite a very disgusted glare.\r\n\r\nCombines wild plants to create something to cheer up its tamer with while assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_SleeveRabbit":"While in party, \r\nreduces the <Status_Keyword>Partner Skill cooldowns</> for other party Pals by <Status_Up>{Passive1_EffectValue2}%</>. (Does not stack)\r\n\r\nCombines wild plants to create something to cheer up its tamer with while assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

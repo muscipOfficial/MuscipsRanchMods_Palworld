@@ -1,0 +1,844 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "ClownRabbitRanch_001A": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_001B": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.70,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_002A": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.40,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_002B": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.60,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_003A": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_003B": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_004A": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_004B": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_004C": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_005A": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.40,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_005B": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_005C": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_005D": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_006A": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.35,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_006B": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_006C": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_006D": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_04",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_006E": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_007A": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_007B": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_007C": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_007D": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_04",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_007E": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_05",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_007F": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_008A": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_008B": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_008C": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_008D": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_04",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_008E": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_05",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_008F": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_009A": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_009B": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_009C": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_009D": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_04",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_009E": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_05",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_009F": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_010A": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_010B": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_010C": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_010D": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_04",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_010E": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_05",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_010F": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_001B": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.70,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.40,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_002B": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.60,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_003B": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_004B": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_004C": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.40,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_005D": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.35,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_006D": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_04",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_006E": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_007D": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_04",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_007E": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_05",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_007F": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_008D": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_04",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_008E": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_05",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_008F": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_009D": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_04",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_009E": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_05",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_009F": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_010D": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_04",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_010E": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_05",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_010F": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}

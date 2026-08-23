@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_MonochromeQueen":"Untainted Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_MonochromeQueen":"Joy and misery come in equal measure for <characterName id=|MonochromeQueen|/>. \r\nThose who choose to take care of one must be prepared for what that entails.\r\n\r\nBottles its misery into <itemName id=|Bio_Coolant| style=|Status_Keyword|/>, saving only its joy for its tamer while assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_MonochromeQueen":"While in party, \r\nincreases the player's Attack by <Status_Up>{Passive1_EffectValue1}%</> if all Pals in party are different species. \r\n(Does not stack)\r\n\r\nBottles its misery into <itemName id=|Bio_Coolant| style=|Status_Keyword|/>, saving only its joy for its tamer while assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

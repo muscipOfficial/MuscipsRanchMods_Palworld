@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_ThunderFluffyBird":"Electro-Massage Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_ThunderFluffyBird":"With so little to eat at high altitudes, \r\nit will occasionally even feast on its enemies' brains.\r\nIt is thought that groups seeking a more dependable food source \r\ndescended to lower skies, ultimately diverging into <characterName id=|ThunderBird|/>.\r\n\r\nPecks pebbles of <itemName id=|SkyIslandOre| style=|Status_Keyword|/> while assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_ThunderFluffyBird":"While in party, \r\nincreases the capture rate of Pals afflicted with <uiCommon id=|ADDITIONAL_EFFECT_Freeze| style=|Effect_Freeze|/>. (Does not stack)\r\n{ReferenceMsgId_CaptureRate}\r\n\r\nPecks pebbles of <itemName id=|SkyIslandOre| style=|Status_Keyword|/> while assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

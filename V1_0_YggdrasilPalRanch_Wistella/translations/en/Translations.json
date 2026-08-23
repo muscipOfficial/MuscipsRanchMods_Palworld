@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_MoonChild":"Hidden Dark Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_MoonChild":"At the end of its life, a new star appears somewhere in the skies, \r\nglowing with the weight of its memories.\r\n\r\nAttracts <itemName id=|PalUpgradeStone| style=|Status_Keyword|/> from the stars while assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_MoonChild":"While in party, \r\nincreases Defense of <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> Pals by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)\r\nThis guy does something\r\n\r\nAttracts <itemName id=|PalUpgradeStone| style=|Status_Keyword|/> from the stars while assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

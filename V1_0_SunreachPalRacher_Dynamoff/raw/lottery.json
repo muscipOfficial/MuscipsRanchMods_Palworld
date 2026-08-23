@@ -1,0 +1,444 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "ThunderFluffyBirdRanch_001A": {
+            "FieldName": "CharacterSpawnItem_ThunderFluffyBird_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "SkyIslandOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderFluffyBirdRanch_002A": {
+            "FieldName": "CharacterSpawnItem_ThunderFluffyBird_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "SkyIslandOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderFluffyBirdRanch_003A": {
+            "FieldName": "CharacterSpawnItem_ThunderFluffyBird_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "SkyIslandOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderFluffyBirdRanch_004A": {
+            "FieldName": "CharacterSpawnItem_ThunderFluffyBird_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "SkyIslandOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderFluffyBirdRanch_005A": {
+            "FieldName": "CharacterSpawnItem_ThunderFluffyBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "SkyIslandOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderFluffyBirdRanch_005B": {
+            "FieldName": "CharacterSpawnItem_ThunderFluffyBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalOil",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderFluffyBirdRanch_005C": {
+            "FieldName": "CharacterSpawnItem_ThunderFluffyBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WingGlider_Fuel",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderFluffyBirdRanch_006A": {
+            "FieldName": "CharacterSpawnItem_ThunderFluffyBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "SkyIslandOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderFluffyBirdRanch_006B": {
+            "FieldName": "CharacterSpawnItem_ThunderFluffyBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalOil",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderFluffyBirdRanch_006C": {
+            "FieldName": "CharacterSpawnItem_ThunderFluffyBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "WingGlider_Fuel",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderFluffyBirdRanch_007A": {
+            "FieldName": "CharacterSpawnItem_ThunderFluffyBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "SkyIslandOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderFluffyBirdRanch_007B": {
+            "FieldName": "CharacterSpawnItem_ThunderFluffyBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalOil",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderFluffyBirdRanch_007C": {
+            "FieldName": "CharacterSpawnItem_ThunderFluffyBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "WingGlider_Fuel",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderFluffyBirdRanch_008A": {
+            "FieldName": "CharacterSpawnItem_ThunderFluffyBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "SkyIslandOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderFluffyBirdRanch_008B": {
+            "FieldName": "CharacterSpawnItem_ThunderFluffyBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalOil",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderFluffyBirdRanch_008C": {
+            "FieldName": "CharacterSpawnItem_ThunderFluffyBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WingGlider_Fuel",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderFluffyBirdRanch_009A": {
+            "FieldName": "CharacterSpawnItem_ThunderFluffyBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "SkyIslandOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderFluffyBirdRanch_009B": {
+            "FieldName": "CharacterSpawnItem_ThunderFluffyBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalOil",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderFluffyBirdRanch_009C": {
+            "FieldName": "CharacterSpawnItem_ThunderFluffyBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WingGlider_Fuel",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderFluffyBirdRanch_010A": {
+            "FieldName": "CharacterSpawnItem_ThunderFluffyBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "SkyIslandOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderFluffyBirdRanch_010B": {
+            "FieldName": "CharacterSpawnItem_ThunderFluffyBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalOil",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderFluffyBirdRanch_010C": {
+            "FieldName": "CharacterSpawnItem_ThunderFluffyBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WingGlider_Fuel",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderFluffyBirdRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BThunderFluffyBird_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "SkyIslandOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderFluffyBirdRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BThunderFluffyBird_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "SkyIslandOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderFluffyBirdRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BThunderFluffyBird_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "SkyIslandOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderFluffyBirdRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BThunderFluffyBird_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "SkyIslandOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderFluffyBirdRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BThunderFluffyBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "SkyIslandOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderFluffyBirdRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BThunderFluffyBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalOil",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderFluffyBirdRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BThunderFluffyBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WingGlider_Fuel",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderFluffyBirdRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BThunderFluffyBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "SkyIslandOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderFluffyBirdRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BThunderFluffyBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalOil",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderFluffyBirdRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BThunderFluffyBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "WingGlider_Fuel",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderFluffyBirdRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BThunderFluffyBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "SkyIslandOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderFluffyBirdRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BThunderFluffyBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalOil",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderFluffyBirdRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BThunderFluffyBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "WingGlider_Fuel",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderFluffyBirdRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BThunderFluffyBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "SkyIslandOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderFluffyBirdRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BThunderFluffyBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalOil",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderFluffyBirdRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BThunderFluffyBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WingGlider_Fuel",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderFluffyBirdRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BThunderFluffyBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "SkyIslandOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderFluffyBirdRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BThunderFluffyBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalOil",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderFluffyBirdRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BThunderFluffyBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WingGlider_Fuel",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderFluffyBirdRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BThunderFluffyBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "SkyIslandOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderFluffyBirdRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BThunderFluffyBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalOil",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderFluffyBirdRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BThunderFluffyBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WingGlider_Fuel",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}

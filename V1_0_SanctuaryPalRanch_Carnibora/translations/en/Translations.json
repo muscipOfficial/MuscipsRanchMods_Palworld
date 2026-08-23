@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_VenusFlytrap":"Entangling Bone Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_VenusFlytrap":"Prone to eating indiscriminately, the mouth atop its head frequently breaks out in agonizing ulcers, causing it to use the mouth on its face instead. \r\nHowever, its behavior doesn't change, which leads to both mouths suffering the same ulcers.\r\n\r\nSpits pieces of <itemName id=|BeastBone_Ancient| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_VenusFlytrap":"While in party, \r\nwhen the player performs a dodge roll or dodge step, <characterName id=|VenusFlytrap|/> creates a whirlwind that deals damage to enemies it touches (<img id=|ElemIcon_Grass|/><uiCommon id=|COMMON_ELEMENT_NAME_Leaf| style=|Elem_Grass|/> / Power: <Status_Up>{Passive1_EffectValue1}</>). (Does not stack)\r\n\r\nSpits pieces of <itemName id=|BeastBone_Ancient| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

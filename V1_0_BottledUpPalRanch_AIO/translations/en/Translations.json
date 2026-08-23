@@ -1,0 +1,17 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_FlowerPrince":"Mist Rancher",
+	"PARTNERSKILL_ThunderDragonMan":"Ferocious Thunder Rancher",
+	"PARTNERSKILL_MonochromeQueen":"Untainted Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_FlowerPrince":"Since ancient times, it has remained within the World Tree, continuing its vigil.\r\nWhat it protects, and for what purpose, <characterName id=|FlowerPrince|/> does not care.\r\nAfter all, the World Tree knows everything.\r\nOnly the mist it wields can reveal the truth.\r\n\r\nCondenses its mist into <itemName id=|Corrosive_Solvent| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_LONG_DESC_ThunderDragonMan":"It sends electricity into its foes' wounds, roasting them from the inside out. \r\nFights between <characterName id=|ThunderDragonMan|/> end in the blink of an eye.\r\n\r\nBottles its abundant electricity into <itemName id=|Bio_Battery| style=|Status_Keyword|/> for its tamer while assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_LONG_DESC_MonochromeQueen":"Joy and misery come in equal measure for <characterName id=|MonochromeQueen|/>. \r\nThose who choose to take care of one must be prepared for what that entails.\r\n\r\nBottles its misery into <itemName id=|Bio_Coolant| style=|Status_Keyword|/>, saving only its joy for its tamer while assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_FlowerPrince":"When activated, \r\nthe player's attacks inflict <uiCommon id=|ADDITIONAL_EFFECT_Poison| style=|Effect_Poison|/> <Status_Up>{ReferencePassive1_EffectValue1}</>.\r\n\r\nWhile in party, \r\ngrants the player and party Pals immunity to <uiCommon id=|ADDITIONAL_EFFECT_Poison| style=|Effect_Poison|/>, and <Status_Keyword>nullifies the effects of toxic gas</> in the World Tree area. \r\n(Does not stack)\r\n\r\nCondenses its mist into <itemName id=|Corrosive_Solvent| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_FIRST_SPAWN_DESC_ThunderDragonMan":"While in party, \r\nhitting an enemy with a bullet increases the Attack and Defense of the Pal fighting alongside you by <Status_Up>{Passive1_EffectValue1}%</> for 5 seconds.\r\nThis effect stacks up to 30 times. (Does not stack.)\r\n\r\nBottles its abundant electricity into <itemName id=|Bio_Battery| style=|Status_Keyword|/> for its tamer while assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_FIRST_SPAWN_DESC_MonochromeQueen":"While in party, \r\nincreases the player's Attack by <Status_Up>{Passive1_EffectValue1}%</> if all Pals in party are different species. \r\n(Does not stack)\r\n\r\nBottles its misery into <itemName id=|Bio_Coolant| style=|Status_Keyword|/>, saving only its joy for its tamer while assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_GrassMinotaur_Ice":"Father Winter's Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_GrassMinotaur_Ice":"Its frozen horn stays solid through its life.\r\nWhen water begins to drip from this ice,\r\n<characterName id=|GrassMinotaur_Ice|/> feels the chill of its own life slipping away.\r\n\r\nSheds pieces of <itemName id=|Wood_WorldTree| style=|Status_Keyword|/> off its skin when assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_GrassMinotaur_Ice":"While in party, \r\ngrants the player the ability to <uiCommon id=|ADDITIONAL_EFFECT_Freeze| style=|Effect_Freeze|/> enemies afflicted with <uiCommon id=|ADDITIONAL_EFFECT_Wetness| style=|Effect_Wetness|/> in one strike.\r\n\r\nSheds pieces of <itemName id=|Wood_WorldTree| style=|Status_Keyword|/> off its skin when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

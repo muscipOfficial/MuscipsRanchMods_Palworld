@@ -1,0 +1,584 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "MoonChildRanch_001A": {
+            "FieldName": "CharacterSpawnItem_MoonChild_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_002A": {
+            "FieldName": "CharacterSpawnItem_MoonChild_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_003A": {
+            "FieldName": "CharacterSpawnItem_MoonChild_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_003B": {
+            "FieldName": "CharacterSpawnItem_MoonChild_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_004A": {
+            "FieldName": "CharacterSpawnItem_MoonChild_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_004B": {
+            "FieldName": "CharacterSpawnItem_MoonChild_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_005A": {
+            "FieldName": "CharacterSpawnItem_MoonChild_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_005B": {
+            "FieldName": "CharacterSpawnItem_MoonChild_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_005C": {
+            "FieldName": "CharacterSpawnItem_MoonChild_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_006A": {
+            "FieldName": "CharacterSpawnItem_MoonChild_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_006B": {
+            "FieldName": "CharacterSpawnItem_MoonChild_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_006C": {
+            "FieldName": "CharacterSpawnItem_MoonChild_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_006D": {
+            "FieldName": "CharacterSpawnItem_MoonChild_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone4",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_007A": {
+            "FieldName": "CharacterSpawnItem_MoonChild_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_007B": {
+            "FieldName": "CharacterSpawnItem_MoonChild_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_007C": {
+            "FieldName": "CharacterSpawnItem_MoonChild_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_007D": {
+            "FieldName": "CharacterSpawnItem_MoonChild_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone4",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_008A": {
+            "FieldName": "CharacterSpawnItem_MoonChild_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_008B": {
+            "FieldName": "CharacterSpawnItem_MoonChild_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_008C": {
+            "FieldName": "CharacterSpawnItem_MoonChild_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_008D": {
+            "FieldName": "CharacterSpawnItem_MoonChild_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone4",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_009A": {
+            "FieldName": "CharacterSpawnItem_MoonChild_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_009B": {
+            "FieldName": "CharacterSpawnItem_MoonChild_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_009C": {
+            "FieldName": "CharacterSpawnItem_MoonChild_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_009D": {
+            "FieldName": "CharacterSpawnItem_MoonChild_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone4",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_010A": {
+            "FieldName": "CharacterSpawnItem_MoonChild_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 40,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_010B": {
+            "FieldName": "CharacterSpawnItem_MoonChild_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_010C": {
+            "FieldName": "CharacterSpawnItem_MoonChild_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_010D": {
+            "FieldName": "CharacterSpawnItem_MoonChild_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone4",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_003B": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_004B": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_006D": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone4",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_007D": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone4",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_008D": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone4",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_009D": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone4",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 40,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_010D": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone4",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_DomeArmorDragon":"Indestructible Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_DomeArmorDragon":"In ancient times, when means of communication were limited, \r\nthe light within <characterName id=|DomeArmorDragon|/>'s wings was used to send simple flash signals.\r\n\r\nDrops compressed <itemName id=|Thermal_Core| style=|Status_Keyword|/> from its wings when assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_DomeArmorDragon":"Can be ridden. \r\n\r\nWhile in party, \r\nplayer and party Pals take <Status_Up>{Passive1_EffectValue2}%</> less damage from <Status_Keyword>explosive attacks</>, and are immune to <uiCommon id=|ADDITIONAL_EFFECT_Stun| style=|Effect_Stun|/>. (Does not stack)\r\n\r\nDrops compressed <itemName id=|Thermal_Core| style=|Status_Keyword|/> from its wings when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

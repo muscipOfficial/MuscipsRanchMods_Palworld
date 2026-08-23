@@ -1,0 +1,14 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_Anubis":"Guardian Rancher",
+	"PARTNERSKILL_Sekhmet":"Empress Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_Anubis":"Once seen as a symbol of nobility, \r\nand an idol for those who shunned wealth and power.\r\nYet over time, this Pal became a token of death.\r\n\r\nLeaves gnawed <itemName id=|Horn| style=|Status_Keyword|/>'s and hunts for meat while assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_LONG_DESC_Sekhmet":"Once a fierce creature feared as a symbol of death.\r\nWhen <characterName id=|Anubis|/> claimed that mantle, wealthy elites looking for a replacement beguiled the species with wine.\r\nBefore long, <characterName id=|Sekhmet|/> became a symbol of high nobility.\r\n\r\nCoughs <itemName id=|Wool| style=|Status_Keyword|/> balls and hunts fish while assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_Anubis":"When activated, \r\n<characterName id=|Anubis|/> changes the player's attack type to\r\n<img id=|ElemIcon_Ground|/><uiCommon id=|COMMON_ELEMENT_NAME_Earth| style=|Elem_Ground|/> and increases Attack by {ReferencePassive1_EffectValue1}%.\r\nOccasionally evades attacks with a flash sidestep during battle.\r\n\r\nLeaves gnawed <itemName id=|Horn| style=|Status_Keyword|/>'s and hunts for meat while assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_FIRST_SPAWN_DESC_Sekhmet":"While at base, \r\nboosts <characterName id=|Anubis| style=|Status_Keyword|/>'s work speed by <Status_Up>{Passive1_EffectValue1}%</>. \r\nIncreases efficiency by <Status_Up>{Passive2_EffectValue1}%</> if <characterName id=|Sekhmet|/> is also working at a Workbench, Workshop, or other related facilities. (Does not stack)\r\n\r\nCoughs <itemName id=|Wool| style=|Status_Keyword|/> balls and hunts fish while assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

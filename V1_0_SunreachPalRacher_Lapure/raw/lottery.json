@@ -1,0 +1,444 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "SleeveRabbitRanch_001A": {
+            "FieldName": "CharacterSpawnItem_SleeveRabbit_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Herbs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SleeveRabbitRanch_002A": {
+            "FieldName": "CharacterSpawnItem_SleeveRabbit_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Herbs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SleeveRabbitRanch_003A": {
+            "FieldName": "CharacterSpawnItem_SleeveRabbit_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Herbs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SleeveRabbitRanch_004A": {
+            "FieldName": "CharacterSpawnItem_SleeveRabbit_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Herbs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SleeveRabbitRanch_004B": {
+            "FieldName": "CharacterSpawnItem_SleeveRabbit_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Medicines",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SleeveRabbitRanch_005A": {
+            "FieldName": "CharacterSpawnItem_SleeveRabbit_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Herbs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SleeveRabbitRanch_005B": {
+            "FieldName": "CharacterSpawnItem_SleeveRabbit_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Medicines",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SleeveRabbitRanch_006A": {
+            "FieldName": "CharacterSpawnItem_SleeveRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Herbs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SleeveRabbitRanch_006B": {
+            "FieldName": "CharacterSpawnItem_SleeveRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Medicines",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SleeveRabbitRanch_007A": {
+            "FieldName": "CharacterSpawnItem_SleeveRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "Herbs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SleeveRabbitRanch_007B": {
+            "FieldName": "CharacterSpawnItem_SleeveRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "Medicines",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SleeveRabbitRanch_007C": {
+            "FieldName": "CharacterSpawnItem_SleeveRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "LuxuryMedicines",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SleeveRabbitRanch_008A": {
+            "FieldName": "CharacterSpawnItem_SleeveRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "Herbs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SleeveRabbitRanch_008B": {
+            "FieldName": "CharacterSpawnItem_SleeveRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "Medicines",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SleeveRabbitRanch_008C": {
+            "FieldName": "CharacterSpawnItem_SleeveRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "LuxuryMedicines",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SleeveRabbitRanch_009A": {
+            "FieldName": "CharacterSpawnItem_SleeveRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "Herbs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SleeveRabbitRanch_009B": {
+            "FieldName": "CharacterSpawnItem_SleeveRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "Medicines",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SleeveRabbitRanch_009C": {
+            "FieldName": "CharacterSpawnItem_SleeveRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "LuxuryMedicines",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SleeveRabbitRanch_010A": {
+            "FieldName": "CharacterSpawnItem_SleeveRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Herbs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SleeveRabbitRanch_010B": {
+            "FieldName": "CharacterSpawnItem_SleeveRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Medicines",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SleeveRabbitRanch_010C": {
+            "FieldName": "CharacterSpawnItem_SleeveRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "LuxuryMedicines",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SleeveRabbitRanch_010D": {
+            "FieldName": "CharacterSpawnItem_SleeveRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Supplement",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSleeveRabbitRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BSleeveRabbit_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Herbs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSleeveRabbitRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BSleeveRabbit_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Herbs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSleeveRabbitRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BSleeveRabbit_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Herbs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSleeveRabbitRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BSleeveRabbit_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Herbs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSleeveRabbitRanch_004B": {
+            "FieldName": "CharacterSpawnItem_BSleeveRabbit_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Medicines",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSleeveRabbitRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BSleeveRabbit_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Herbs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSleeveRabbitRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BSleeveRabbit_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Medicines",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSleeveRabbitRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BSleeveRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Herbs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSleeveRabbitRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BSleeveRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Medicines",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSleeveRabbitRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BSleeveRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "Herbs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSleeveRabbitRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BSleeveRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "Medicines",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSleeveRabbitRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BSleeveRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "LuxuryMedicines",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSleeveRabbitRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BSleeveRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "Herbs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSleeveRabbitRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BSleeveRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "Medicines",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSleeveRabbitRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BSleeveRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "LuxuryMedicines",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSleeveRabbitRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BSleeveRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "Herbs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSleeveRabbitRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BSleeveRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "Medicines",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSleeveRabbitRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BSleeveRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "LuxuryMedicines",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSleeveRabbitRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BSleeveRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Herbs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSleeveRabbitRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BSleeveRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Medicines",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSleeveRabbitRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BSleeveRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "LuxuryMedicines",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSleeveRabbitRanch_010D": {
+            "FieldName": "CharacterSpawnItem_BSleeveRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Supplement",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}

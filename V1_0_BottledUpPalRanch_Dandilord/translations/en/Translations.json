@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_FlowerPrince":"Mist Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_FlowerPrince":"Since ancient times, it has remained within the World Tree, continuing its vigil.\r\nWhat it protects, and for what purpose, <characterName id=|FlowerPrince|/> does not care.\r\nAfter all, the World Tree knows everything.\r\nOnly the mist it wields can reveal the truth.\r\n\r\nCondenses its mist into <itemName id=|Corrosive_Solvent| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_FlowerPrince":"When activated, \r\nthe player's attacks inflict <uiCommon id=|ADDITIONAL_EFFECT_Poison| style=|Effect_Poison|/> <Status_Up>{ReferencePassive1_EffectValue1}</>.\r\n\r\nWhile in party, \r\ngrants the player and party Pals immunity to <uiCommon id=|ADDITIONAL_EFFECT_Poison| style=|Effect_Poison|/>, and <Status_Keyword>nullifies the effects of toxic gas</> in the World Tree area. \r\n(Does not stack)\r\n\r\nCondenses its mist into <itemName id=|Corrosive_Solvent| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

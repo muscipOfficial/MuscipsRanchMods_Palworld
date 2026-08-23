@@ -1,0 +1,664 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "GrassMinotaur_IceRanch_001A": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_002A": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_003A": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_004A": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_005A": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_005B": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_005C": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_006A": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_006B": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_006C": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_007A": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_007B": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_007C": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_008A": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_008B": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_008C": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_009A": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_009B": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_009C": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_010A": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_010B": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_010C": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_001A": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_002A": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_003A": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_004A": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_005A": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_005B": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_005C": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_006A": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_006B": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_006C": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_007A": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_007B": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_007C": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_008A": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_008B": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_008C": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_009A": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_009B": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_009C": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_010A": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_010B": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_010C": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}

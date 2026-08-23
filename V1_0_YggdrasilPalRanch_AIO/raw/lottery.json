@@ -1,0 +1,4144 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "DomeArmorDragonRanch_001A": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Thermal_Core",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_001B": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Coal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_002A": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.55,
+            "StaticItemId": "Thermal_Core",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_002B": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "Coal",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_003A": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.60,
+            "StaticItemId": "Thermal_Core",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_003B": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.40,
+            "StaticItemId": "Coal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_004A": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.65,
+            "StaticItemId": "Thermal_Core",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_004B": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.35,
+            "StaticItemId": "Coal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_005A": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.65,
+            "StaticItemId": "Thermal_Core",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_005B": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Electric",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_005C": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Coal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_006A": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.65,
+            "StaticItemId": "Thermal_Core",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_006B": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Electric",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_006C": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Coal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_007A": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.65,
+            "StaticItemId": "Thermal_Core",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_007B": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.15,
+            "StaticItemId": "PalAwakening_Material_Electric",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_007C": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.20,
+            "StaticItemId": "Coal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_008A": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.65,
+            "StaticItemId": "Thermal_Core",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_008B": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.20,
+            "StaticItemId": "PalAwakening_Material_Electric",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_008C": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.15,
+            "StaticItemId": "Coal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_009A": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.65,
+            "StaticItemId": "Thermal_Core",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_009B": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalAwakening_Material_Electric",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_009C": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Coal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_010A": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.65,
+            "StaticItemId": "Thermal_Core",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_010B": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "PalAwakening_Material_Electric",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "DomeArmorDragonRanch_010C": {
+            "FieldName": "CharacterSpawnItem_DomeArmorDragon_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Coal",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 100,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Thermal_Core",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_001B": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Coal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.55,
+            "StaticItemId": "Thermal_Core",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_002B": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "Coal",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.60,
+            "StaticItemId": "Thermal_Core",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_003B": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.40,
+            "StaticItemId": "Coal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.65,
+            "StaticItemId": "Thermal_Core",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_004B": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.35,
+            "StaticItemId": "Coal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.65,
+            "StaticItemId": "Thermal_Core",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Electric",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Coal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.65,
+            "StaticItemId": "Thermal_Core",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Electric",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Coal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.65,
+            "StaticItemId": "Thermal_Core",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.15,
+            "StaticItemId": "PalAwakening_Material_Electric",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.20,
+            "StaticItemId": "Coal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.65,
+            "StaticItemId": "Thermal_Core",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.20,
+            "StaticItemId": "PalAwakening_Material_Electric",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.15,
+            "StaticItemId": "Coal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.65,
+            "StaticItemId": "Thermal_Core",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalAwakening_Material_Electric",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Coal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.65,
+            "StaticItemId": "Thermal_Core",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "PalAwakening_Material_Electric",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BDomeArmorDragonRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BDomeArmorDragon_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Coal",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 100,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_001A": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_001B": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.70,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_002A": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.40,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_002B": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.60,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_003A": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_003B": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_004A": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_004B": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_004C": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_005A": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.40,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_005B": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_005C": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_005D": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_006A": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.35,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_006B": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_006C": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_006D": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_04",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_006E": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_007A": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_007B": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_007C": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_007D": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_04",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_007E": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_05",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_007F": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_008A": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_008B": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_008C": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_008D": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_04",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_008E": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_05",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_008F": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_009A": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_009B": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_009C": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_009D": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_04",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_009E": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_05",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_009F": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_010A": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_010B": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_010C": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_010D": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_04",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_010E": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_05",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ClownRabbitRanch_010F": {
+            "FieldName": "CharacterSpawnItem_ClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_001B": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.70,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.40,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_002B": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.60,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_003B": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_004B": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_004C": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.40,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_005D": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.35,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_006D": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_04",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_006E": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_007D": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_04",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_007E": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "WorldTreeRelic_05",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_007F": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_008D": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_04",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_008E": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_05",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_008F": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_009D": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_04",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_009E": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_05",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_009F": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_01",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_02",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_03",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_010D": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_04",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_010E": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "WorldTreeRelic_05",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BClownRabbitRanch_010F": {
+            "FieldName": "CharacterSpawnItem_BClownRabbit_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalAwakening_Material_Fire",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_001A": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_002A": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_003A": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_004A": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_005A": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_005B": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_005C": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_006A": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_006B": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_006C": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_007A": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_007B": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_007C": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_008A": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_008B": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_008C": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_009A": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_009B": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_009C": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_010A": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_010B": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrassMinotaur_IceRanch_010C": {
+            "FieldName": "CharacterSpawnItem_GrassMinotaur_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrassMinotaur_IceRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BGrassMinotaur_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_001A": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_002A": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_003A": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_004A": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_005A": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_005B": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_005C": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_006A": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_006B": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_006C": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_007A": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_007B": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_007C": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_008A": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_008B": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_008C": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_009A": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_009B": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_009C": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_010A": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Wood_WorldTree",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_010B": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Grass",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrassMinotaur_IceRanch_010C": {
+            "FieldName": "CharacterSpawnItem_PGrassMinotaur_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Water",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeastRanch_001A": {
+            "FieldName": "CharacterSpawnItem_RockBeast_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Quartz",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeastRanch_002A": {
+            "FieldName": "CharacterSpawnItem_RockBeast_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Quartz",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeastRanch_003A": {
+            "FieldName": "CharacterSpawnItem_RockBeast_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Quartz",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeastRanch_004A": {
+            "FieldName": "CharacterSpawnItem_RockBeast_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Quartz",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeastRanch_005A": {
+            "FieldName": "CharacterSpawnItem_RockBeast_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "Quartz",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeastRanch_005B": {
+            "FieldName": "CharacterSpawnItem_RockBeast_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Neutral",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeastRanch_005C": {
+            "FieldName": "CharacterSpawnItem_RockBeast_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeastRanch_006A": {
+            "FieldName": "CharacterSpawnItem_RockBeast_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "Quartz",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeastRanch_006B": {
+            "FieldName": "CharacterSpawnItem_RockBeast_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Neutral",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeastRanch_006C": {
+            "FieldName": "CharacterSpawnItem_RockBeast_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeastRanch_007A": {
+            "FieldName": "CharacterSpawnItem_RockBeast_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "Quartz",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeastRanch_007B": {
+            "FieldName": "CharacterSpawnItem_RockBeast_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Neutral",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeastRanch_007C": {
+            "FieldName": "CharacterSpawnItem_RockBeast_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeastRanch_008A": {
+            "FieldName": "CharacterSpawnItem_RockBeast_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "Quartz",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeastRanch_008B": {
+            "FieldName": "CharacterSpawnItem_RockBeast_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Neutral",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeastRanch_008C": {
+            "FieldName": "CharacterSpawnItem_RockBeast_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeastRanch_009A": {
+            "FieldName": "CharacterSpawnItem_RockBeast_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Quartz",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeastRanch_009B": {
+            "FieldName": "CharacterSpawnItem_RockBeast_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Neutral",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeastRanch_009C": {
+            "FieldName": "CharacterSpawnItem_RockBeast_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeastRanch_010A": {
+            "FieldName": "CharacterSpawnItem_RockBeast_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Quartz",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeastRanch_010B": {
+            "FieldName": "CharacterSpawnItem_RockBeast_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Neutral",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeastRanch_010C": {
+            "FieldName": "CharacterSpawnItem_RockBeast_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeastRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Quartz",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeastRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Quartz",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeastRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Quartz",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeastRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Quartz",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeastRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "Quartz",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeastRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Neutral",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeastRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeastRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "Quartz",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeastRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Neutral",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeastRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeastRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "Quartz",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeastRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Neutral",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeastRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeastRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "Quartz",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeastRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Neutral",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeastRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeastRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Quartz",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeastRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Neutral",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeastRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeastRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Quartz",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeastRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Neutral",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeastRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeast_IceRanch_001A": {
+            "FieldName": "CharacterSpawnItem_RockBeast_Ice_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeast_IceRanch_002A": {
+            "FieldName": "CharacterSpawnItem_RockBeast_Ice_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeast_IceRanch_003A": {
+            "FieldName": "CharacterSpawnItem_RockBeast_Ice_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeast_IceRanch_004A": {
+            "FieldName": "CharacterSpawnItem_RockBeast_Ice_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeast_IceRanch_005A": {
+            "FieldName": "CharacterSpawnItem_RockBeast_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "WorldTreeOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeast_IceRanch_005B": {
+            "FieldName": "CharacterSpawnItem_RockBeast_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeast_IceRanch_005C": {
+            "FieldName": "CharacterSpawnItem_RockBeast_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Ice",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeast_IceRanch_006A": {
+            "FieldName": "CharacterSpawnItem_RockBeast_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "WorldTreeOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeast_IceRanch_006B": {
+            "FieldName": "CharacterSpawnItem_RockBeast_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeast_IceRanch_006C": {
+            "FieldName": "CharacterSpawnItem_RockBeast_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Ice",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeast_IceRanch_007A": {
+            "FieldName": "CharacterSpawnItem_RockBeast_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "WorldTreeOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeast_IceRanch_007B": {
+            "FieldName": "CharacterSpawnItem_RockBeast_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeast_IceRanch_007C": {
+            "FieldName": "CharacterSpawnItem_RockBeast_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Ice",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeast_IceRanch_008A": {
+            "FieldName": "CharacterSpawnItem_RockBeast_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "WorldTreeOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeast_IceRanch_008B": {
+            "FieldName": "CharacterSpawnItem_RockBeast_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeast_IceRanch_008C": {
+            "FieldName": "CharacterSpawnItem_RockBeast_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Ice",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeast_IceRanch_009A": {
+            "FieldName": "CharacterSpawnItem_RockBeast_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "WorldTreeOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeast_IceRanch_009B": {
+            "FieldName": "CharacterSpawnItem_RockBeast_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeast_IceRanch_009C": {
+            "FieldName": "CharacterSpawnItem_RockBeast_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Ice",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeast_IceRanch_010A": {
+            "FieldName": "CharacterSpawnItem_RockBeast_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "WorldTreeOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeast_IceRanch_010B": {
+            "FieldName": "CharacterSpawnItem_RockBeast_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RockBeast_IceRanch_010C": {
+            "FieldName": "CharacterSpawnItem_RockBeast_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Ice",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeast_IceRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_Ice_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeast_IceRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_Ice_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeast_IceRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_Ice_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeast_IceRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_Ice_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeast_IceRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "WorldTreeOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeast_IceRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeast_IceRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Ice",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeast_IceRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "WorldTreeOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeast_IceRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeast_IceRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Ice",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeast_IceRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "WorldTreeOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeast_IceRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeast_IceRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Ice",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeast_IceRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "WorldTreeOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeast_IceRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeast_IceRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Ice",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeast_IceRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "WorldTreeOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeast_IceRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeast_IceRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Ice",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeast_IceRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "WorldTreeOre",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeast_IceRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Ground",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRockBeast_IceRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BRockBeast_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Ice",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_001A": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_002A": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_003A": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_004A": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_005A": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_005B": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_005C": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_006A": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_006B": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_006C": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_007A": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_007B": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_007C": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_008A": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_008B": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_008C": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_009A": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_009B": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_009C": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_010A": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_010B": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "SnakeGirlRanch_010C": {
+            "FieldName": "CharacterSpawnItem_SnakeGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BSnakeGirlRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BSnakeGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_001A": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_002A": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_003A": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_004A": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_005A": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_005B": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_005C": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_006A": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_006B": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_006C": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_007A": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_007B": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_007C": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_008A": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_008B": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_008C": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_009A": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_009B": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_009C": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_010A": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "WorldTreeHolyWater",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_010B": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dragon",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PSnakeGirlRanch_010C": {
+            "FieldName": "CharacterSpawnItem_PSnakeGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalAwakening_Material_Dark",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_001A": {
+            "FieldName": "CharacterSpawnItem_MoonChild_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_002A": {
+            "FieldName": "CharacterSpawnItem_MoonChild_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_003A": {
+            "FieldName": "CharacterSpawnItem_MoonChild_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_003B": {
+            "FieldName": "CharacterSpawnItem_MoonChild_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_004A": {
+            "FieldName": "CharacterSpawnItem_MoonChild_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_004B": {
+            "FieldName": "CharacterSpawnItem_MoonChild_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_005A": {
+            "FieldName": "CharacterSpawnItem_MoonChild_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_005B": {
+            "FieldName": "CharacterSpawnItem_MoonChild_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_005C": {
+            "FieldName": "CharacterSpawnItem_MoonChild_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_006A": {
+            "FieldName": "CharacterSpawnItem_MoonChild_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_006B": {
+            "FieldName": "CharacterSpawnItem_MoonChild_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_006C": {
+            "FieldName": "CharacterSpawnItem_MoonChild_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_006D": {
+            "FieldName": "CharacterSpawnItem_MoonChild_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone4",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_007A": {
+            "FieldName": "CharacterSpawnItem_MoonChild_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_007B": {
+            "FieldName": "CharacterSpawnItem_MoonChild_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_007C": {
+            "FieldName": "CharacterSpawnItem_MoonChild_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_007D": {
+            "FieldName": "CharacterSpawnItem_MoonChild_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone4",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_008A": {
+            "FieldName": "CharacterSpawnItem_MoonChild_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_008B": {
+            "FieldName": "CharacterSpawnItem_MoonChild_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_008C": {
+            "FieldName": "CharacterSpawnItem_MoonChild_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_008D": {
+            "FieldName": "CharacterSpawnItem_MoonChild_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone4",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_009A": {
+            "FieldName": "CharacterSpawnItem_MoonChild_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_009B": {
+            "FieldName": "CharacterSpawnItem_MoonChild_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_009C": {
+            "FieldName": "CharacterSpawnItem_MoonChild_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_009D": {
+            "FieldName": "CharacterSpawnItem_MoonChild_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone4",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_010A": {
+            "FieldName": "CharacterSpawnItem_MoonChild_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 40,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_010B": {
+            "FieldName": "CharacterSpawnItem_MoonChild_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_010C": {
+            "FieldName": "CharacterSpawnItem_MoonChild_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MoonChildRanch_010D": {
+            "FieldName": "CharacterSpawnItem_MoonChild_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone4",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_003B": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_004B": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.33,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_006D": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone4",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_007D": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone4",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_008D": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone4",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_009D": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone4",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 40,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone2",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone3",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMoonChildRanch_010D": {
+            "FieldName": "CharacterSpawnItem_BMoonChild_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalUpgradeStone4",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}

@@ -1,0 +1,1604 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "AnubisRanch_001A": {
+            "FieldName": "CharacterSpawnItem_Anubis_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Horn",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_001B": {
+            "FieldName": "CharacterSpawnItem_Anubis_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_001C": {
+            "FieldName": "CharacterSpawnItem_Anubis_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_001D": {
+            "FieldName": "CharacterSpawnItem_Anubis_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_001E": {
+            "FieldName": "CharacterSpawnItem_Anubis_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_001F": {
+            "FieldName": "CharacterSpawnItem_Anubis_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_001G": {
+            "FieldName": "CharacterSpawnItem_Anubis_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_001H": {
+            "FieldName": "CharacterSpawnItem_Anubis_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_002A": {
+            "FieldName": "CharacterSpawnItem_Anubis_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Horn",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_002B": {
+            "FieldName": "CharacterSpawnItem_Anubis_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_002C": {
+            "FieldName": "CharacterSpawnItem_Anubis_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_002D": {
+            "FieldName": "CharacterSpawnItem_Anubis_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_002E": {
+            "FieldName": "CharacterSpawnItem_Anubis_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_002F": {
+            "FieldName": "CharacterSpawnItem_Anubis_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_002G": {
+            "FieldName": "CharacterSpawnItem_Anubis_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_002H": {
+            "FieldName": "CharacterSpawnItem_Anubis_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_003A": {
+            "FieldName": "CharacterSpawnItem_Anubis_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Horn",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_003B": {
+            "FieldName": "CharacterSpawnItem_Anubis_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_003C": {
+            "FieldName": "CharacterSpawnItem_Anubis_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_003D": {
+            "FieldName": "CharacterSpawnItem_Anubis_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_003E": {
+            "FieldName": "CharacterSpawnItem_Anubis_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_003F": {
+            "FieldName": "CharacterSpawnItem_Anubis_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_003G": {
+            "FieldName": "CharacterSpawnItem_Anubis_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_003H": {
+            "FieldName": "CharacterSpawnItem_Anubis_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_004A": {
+            "FieldName": "CharacterSpawnItem_Anubis_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Horn",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_004B": {
+            "FieldName": "CharacterSpawnItem_Anubis_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_004C": {
+            "FieldName": "CharacterSpawnItem_Anubis_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_004D": {
+            "FieldName": "CharacterSpawnItem_Anubis_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_004E": {
+            "FieldName": "CharacterSpawnItem_Anubis_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_004F": {
+            "FieldName": "CharacterSpawnItem_Anubis_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_004G": {
+            "FieldName": "CharacterSpawnItem_Anubis_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_004H": {
+            "FieldName": "CharacterSpawnItem_Anubis_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_005A": {
+            "FieldName": "CharacterSpawnItem_Anubis_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Horn",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_005B": {
+            "FieldName": "CharacterSpawnItem_Anubis_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_005C": {
+            "FieldName": "CharacterSpawnItem_Anubis_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_005D": {
+            "FieldName": "CharacterSpawnItem_Anubis_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_005E": {
+            "FieldName": "CharacterSpawnItem_Anubis_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_005F": {
+            "FieldName": "CharacterSpawnItem_Anubis_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_005G": {
+            "FieldName": "CharacterSpawnItem_Anubis_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_005H": {
+            "FieldName": "CharacterSpawnItem_Anubis_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_006A": {
+            "FieldName": "CharacterSpawnItem_Anubis_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Horn",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_006B": {
+            "FieldName": "CharacterSpawnItem_Anubis_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_006C": {
+            "FieldName": "CharacterSpawnItem_Anubis_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_006D": {
+            "FieldName": "CharacterSpawnItem_Anubis_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_006E": {
+            "FieldName": "CharacterSpawnItem_Anubis_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_006F": {
+            "FieldName": "CharacterSpawnItem_Anubis_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_006G": {
+            "FieldName": "CharacterSpawnItem_Anubis_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_006H": {
+            "FieldName": "CharacterSpawnItem_Anubis_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_007A": {
+            "FieldName": "CharacterSpawnItem_Anubis_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Horn",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_007B": {
+            "FieldName": "CharacterSpawnItem_Anubis_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_007C": {
+            "FieldName": "CharacterSpawnItem_Anubis_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_007D": {
+            "FieldName": "CharacterSpawnItem_Anubis_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_007E": {
+            "FieldName": "CharacterSpawnItem_Anubis_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_007F": {
+            "FieldName": "CharacterSpawnItem_Anubis_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_007G": {
+            "FieldName": "CharacterSpawnItem_Anubis_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_007H": {
+            "FieldName": "CharacterSpawnItem_Anubis_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_008A": {
+            "FieldName": "CharacterSpawnItem_Anubis_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Horn",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_008B": {
+            "FieldName": "CharacterSpawnItem_Anubis_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_008C": {
+            "FieldName": "CharacterSpawnItem_Anubis_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_008D": {
+            "FieldName": "CharacterSpawnItem_Anubis_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_008E": {
+            "FieldName": "CharacterSpawnItem_Anubis_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_008F": {
+            "FieldName": "CharacterSpawnItem_Anubis_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_008G": {
+            "FieldName": "CharacterSpawnItem_Anubis_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_008H": {
+            "FieldName": "CharacterSpawnItem_Anubis_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_009A": {
+            "FieldName": "CharacterSpawnItem_Anubis_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Horn",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_009B": {
+            "FieldName": "CharacterSpawnItem_Anubis_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_009C": {
+            "FieldName": "CharacterSpawnItem_Anubis_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_009D": {
+            "FieldName": "CharacterSpawnItem_Anubis_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_009E": {
+            "FieldName": "CharacterSpawnItem_Anubis_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_009F": {
+            "FieldName": "CharacterSpawnItem_Anubis_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_009G": {
+            "FieldName": "CharacterSpawnItem_Anubis_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_009H": {
+            "FieldName": "CharacterSpawnItem_Anubis_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_010A": {
+            "FieldName": "CharacterSpawnItem_Anubis_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "Horn",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_010B": {
+            "FieldName": "CharacterSpawnItem_Anubis_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_010C": {
+            "FieldName": "CharacterSpawnItem_Anubis_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_010D": {
+            "FieldName": "CharacterSpawnItem_Anubis_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_010E": {
+            "FieldName": "CharacterSpawnItem_Anubis_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_010F": {
+            "FieldName": "CharacterSpawnItem_Anubis_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_010G": {
+            "FieldName": "CharacterSpawnItem_Anubis_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "AnubisRanch_010H": {
+            "FieldName": "CharacterSpawnItem_Anubis_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BAnubis_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Horn",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_001B": {
+            "FieldName": "CharacterSpawnItem_BAnubis_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_001C": {
+            "FieldName": "CharacterSpawnItem_BAnubis_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_001D": {
+            "FieldName": "CharacterSpawnItem_BAnubis_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_001E": {
+            "FieldName": "CharacterSpawnItem_BAnubis_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_001F": {
+            "FieldName": "CharacterSpawnItem_BAnubis_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_001G": {
+            "FieldName": "CharacterSpawnItem_BAnubis_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_001H": {
+            "FieldName": "CharacterSpawnItem_BAnubis_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BAnubis_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Horn",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_002B": {
+            "FieldName": "CharacterSpawnItem_BAnubis_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_002C": {
+            "FieldName": "CharacterSpawnItem_BAnubis_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_002D": {
+            "FieldName": "CharacterSpawnItem_BAnubis_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_002E": {
+            "FieldName": "CharacterSpawnItem_BAnubis_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_002F": {
+            "FieldName": "CharacterSpawnItem_BAnubis_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_002G": {
+            "FieldName": "CharacterSpawnItem_BAnubis_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_002H": {
+            "FieldName": "CharacterSpawnItem_BAnubis_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BAnubis_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Horn",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_003B": {
+            "FieldName": "CharacterSpawnItem_BAnubis_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_003C": {
+            "FieldName": "CharacterSpawnItem_BAnubis_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_003D": {
+            "FieldName": "CharacterSpawnItem_BAnubis_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_003E": {
+            "FieldName": "CharacterSpawnItem_BAnubis_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_003F": {
+            "FieldName": "CharacterSpawnItem_BAnubis_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_003G": {
+            "FieldName": "CharacterSpawnItem_BAnubis_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_003H": {
+            "FieldName": "CharacterSpawnItem_BAnubis_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BAnubis_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Horn",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_004B": {
+            "FieldName": "CharacterSpawnItem_BAnubis_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_004C": {
+            "FieldName": "CharacterSpawnItem_BAnubis_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_004D": {
+            "FieldName": "CharacterSpawnItem_BAnubis_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_004E": {
+            "FieldName": "CharacterSpawnItem_BAnubis_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_004F": {
+            "FieldName": "CharacterSpawnItem_BAnubis_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_004G": {
+            "FieldName": "CharacterSpawnItem_BAnubis_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_004H": {
+            "FieldName": "CharacterSpawnItem_BAnubis_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BAnubis_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Horn",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BAnubis_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BAnubis_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_005D": {
+            "FieldName": "CharacterSpawnItem_BAnubis_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_005E": {
+            "FieldName": "CharacterSpawnItem_BAnubis_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_005F": {
+            "FieldName": "CharacterSpawnItem_BAnubis_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_005G": {
+            "FieldName": "CharacterSpawnItem_BAnubis_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_005H": {
+            "FieldName": "CharacterSpawnItem_BAnubis_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BAnubis_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Horn",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BAnubis_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BAnubis_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_006D": {
+            "FieldName": "CharacterSpawnItem_BAnubis_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_006E": {
+            "FieldName": "CharacterSpawnItem_BAnubis_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_006F": {
+            "FieldName": "CharacterSpawnItem_BAnubis_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_006G": {
+            "FieldName": "CharacterSpawnItem_BAnubis_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_006H": {
+            "FieldName": "CharacterSpawnItem_BAnubis_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BAnubis_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Horn",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BAnubis_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BAnubis_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_007D": {
+            "FieldName": "CharacterSpawnItem_BAnubis_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_007E": {
+            "FieldName": "CharacterSpawnItem_BAnubis_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_007F": {
+            "FieldName": "CharacterSpawnItem_BAnubis_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_007G": {
+            "FieldName": "CharacterSpawnItem_BAnubis_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_007H": {
+            "FieldName": "CharacterSpawnItem_BAnubis_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BAnubis_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Horn",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BAnubis_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BAnubis_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_008D": {
+            "FieldName": "CharacterSpawnItem_BAnubis_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_008E": {
+            "FieldName": "CharacterSpawnItem_BAnubis_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_008F": {
+            "FieldName": "CharacterSpawnItem_BAnubis_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_008G": {
+            "FieldName": "CharacterSpawnItem_BAnubis_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_008H": {
+            "FieldName": "CharacterSpawnItem_BAnubis_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BAnubis_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.30,
+            "StaticItemId": "Horn",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BAnubis_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BAnubis_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_009D": {
+            "FieldName": "CharacterSpawnItem_BAnubis_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_009E": {
+            "FieldName": "CharacterSpawnItem_BAnubis_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_009F": {
+            "FieldName": "CharacterSpawnItem_BAnubis_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_009G": {
+            "FieldName": "CharacterSpawnItem_BAnubis_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_009H": {
+            "FieldName": "CharacterSpawnItem_BAnubis_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BAnubis_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "Horn",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 20,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BAnubis_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BAnubis_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_010D": {
+            "FieldName": "CharacterSpawnItem_BAnubis_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_010E": {
+            "FieldName": "CharacterSpawnItem_BAnubis_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_010F": {
+            "FieldName": "CharacterSpawnItem_BAnubis_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_010G": {
+            "FieldName": "CharacterSpawnItem_BAnubis_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BAnubisRanch_010H": {
+            "FieldName": "CharacterSpawnItem_BAnubis_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}

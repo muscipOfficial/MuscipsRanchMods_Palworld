@@ -1,0 +1,42 @@
+{
+    "VenusFlytrap":  {
+                        "WorkSuitability_MonsterFarm":  1,
+                        "RanchActionData":  {
+                                                "ChargeMontage":  "/Game/Pal/Animation/Character/Monster/VenusFlytrap/AM_VenusFlytrap_FarSkill_ActionLoop.AM_VenusFlytrap_FarSkill_ActionLoop",
+                                                "FunMontage":  "/Game/Pal/Animation/Character/Monster/VenusFlytrap/AM_VenusFlytrap_Damage.AM_VenusFlytrap_Damage",
+                                                "ChargeFacialEye":  "EPalFacialEyeType::Pain",
+                                                "FunFacialEye":  "EPalFacialEyeType::Smile",
+                                                "SpawnSocketName":  "None",
+                                                "SpawnLocationOffset":  {
+                                                                            "X":  0.0,
+                                                                            "Y":  0.0,
+                                                                            "Z":  0.0
+                                                                        },
+                                                "SpawnItemRotator":  {
+                                                                         "Pitch":  0.0,
+                                                                         "Yaw":  0.0,
+                                                                         "Roll":  0.0
+                                                                     }
+                                            }
+                    },
+    "BOSS_VenusFlytrap":  {
+                             "WorkSuitability_MonsterFarm":  1,
+                             "RanchActionData":  {
+                                                     "ChargeMontage":  "/Game/Pal/Animation/Character/Monster/VenusFlytrap/AM_VenusFlytrap_FarSkill_ActionLoop.AM_VenusFlytrap_FarSkill_ActionLoop",
+                                                     "FunMontage":  "/Game/Pal/Animation/Character/Monster/VenusFlytrap/AM_VenusFlytrap_Damage.AM_VenusFlytrap_Damage",
+                                                     "ChargeFacialEye":  "EPalFacialEyeType::Pain",
+                                                     "FunFacialEye":  "EPalFacialEyeType::Smile",
+                                                     "SpawnSocketName":  "None",
+                                                     "SpawnLocationOffset":  {
+                                                                                 "X":  0.0,
+                                                                                 "Y":  0.0,
+                                                                                 "Z":  0.0
+                                                                             },
+                                                     "SpawnItemRotator":  {
+                                                                              "Pitch":  0.0,
+                                                                              "Yaw":  0.0,
+                                                                              "Roll":  0.0
+                                                                          }
+                                                 }
+                         }
+}
