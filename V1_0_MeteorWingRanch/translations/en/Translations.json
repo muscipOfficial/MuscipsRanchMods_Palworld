@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_DarkMechaDragon":"Meteor Wing Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_DarkMechaDragon":"-Destination reached. Priority: Locate entity |Supersonic Dragon|\r\n-Note: Conquest deadline exceeded by <://Error_Code:126DC> years.\r\n-Update: No conquest traces found. Naturalization confirmed. Commence elimination protocol.\r\n-Staff Memo: Refrain from forgetting or consuming critical data!\r\n\r\nDigs <itemName id=|CopperOre| style=|Status_Keyword|/> out of boredom while assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_DarkMechaDragon":"Can be ridden as a flying mount. \r\n\r\nWhile in party, \r\ndamage done by <Status_Keyword>Partner Skills of weapon-wielding Pals</> increases by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)\r\n{ReferenceMsgId_RideSpeedUp}\r\n\r\nDigs <itemName id=|CopperOre| style=|Status_Keyword|/> out of boredom while assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}
