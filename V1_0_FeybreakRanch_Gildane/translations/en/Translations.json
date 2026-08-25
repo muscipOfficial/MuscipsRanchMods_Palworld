@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_GoldenHorse":"Sandstorm Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_GoldenHorse":"During the golden age of alchemy on the island, \r\nits ever-glowing golden fur was highly prized as a catalyst for transmuting gold.\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_GoldenHorse":"Can be ridden.\r\nChanges the player's attack type to <uiCommon id=|COMMON_ELEMENT_NAME_Earth|/> while mounted.\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

@@ -1,0 +1,206 @@
+{
+	"BP_GoldenHorse_C": {
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GoldenHorse_1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GoldenHorse_2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GoldenHorse_3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GoldenHorse_4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GoldenHorse_5"
+                    }
+                  },
+				  {
+                    "Key": 6,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GoldenHorse_6"
+                    }
+                  },
+                  {
+                    "Key": 7,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GoldenHorse_7"
+                    }
+                  },
+                  {
+                    "Key": 8,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GoldenHorse_8"
+                    }
+                  },
+                  {
+                    "Key": 9,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GoldenHorse_9"
+                    }
+                  },
+                  {
+                    "Key": 10,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GoldenHorse_10"
+                    }
+                  }
+                ]
+            }
+        }
+    },
+	"BP_GoldenHorse_BOSS_C": {
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BGoldenHorse_1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BGoldenHorse_2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BGoldenHorse_3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BGoldenHorse_4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BGoldenHorse_5"
+                    }
+                  },
+				  {
+                    "Key": 6,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BGoldenHorse_6"
+                    }
+                  },
+                  {
+                    "Key": 7,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BGoldenHorse_7"
+                    }
+                  },
+                  {
+                    "Key": 8,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BGoldenHorse_8"
+                    }
+                  },
+                  {
+                    "Key": 9,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BGoldenHorse_9"
+                    }
+                  },
+                  {
+                    "Key": 10,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BGoldenHorse_10"
+                    }
+                  }
+                ]
+            }
+        }
+    },
+	"BP_GoldenHorse_BOSS_Predator_C": {
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_PGoldenHorse_1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_PGoldenHorse_2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_PGoldenHorse_3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_PGoldenHorse_4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_PGoldenHorse_5"
+                    }
+                  },
+				  {
+                    "Key": 6,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_PGoldenHorse_6"
+                    }
+                  },
+                  {
+                    "Key": 7,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_PGoldenHorse_7"
+                    }
+                  },
+                  {
+                    "Key": 8,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_PGoldenHorse_8"
+                    }
+                  },
+                  {
+                    "Key": 9,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_PGoldenHorse_9"
+                    }
+                  },
+                  {
+                    "Key": 10,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_PGoldenHorse_10"
+                    }
+                  }
+                ]
+            }
+        }
+    }
+}

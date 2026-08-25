@@ -1,0 +1,138 @@
+{
+	"BP_NightBlueHorse_Neutral_C": {
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_NightBlueHorse_Neutral_1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_NightBlueHorse_Neutral_2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_NightBlueHorse_Neutral_3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_NightBlueHorse_Neutral_4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_NightBlueHorse_Neutral_5"
+                    }
+                  },
+				  {
+                    "Key": 6,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_NightBlueHorse_Neutral_6"
+                    }
+                  },
+                  {
+                    "Key": 7,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_NightBlueHorse_Neutral_7"
+                    }
+                  },
+                  {
+                    "Key": 8,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_NightBlueHorse_Neutral_8"
+                    }
+                  },
+                  {
+                    "Key": 9,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_NightBlueHorse_Neutral_9"
+                    }
+                  },
+                  {
+                    "Key": 10,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_NightBlueHorse_Neutral_10"
+                    }
+                  }
+                ]
+            }
+        }
+    },
+	"BP_NightBlueHorse_Neutral_BOSS_C": {
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BNightBlueHorse_Neutral_1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BNightBlueHorse_Neutral_2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BNightBlueHorse_Neutral_3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BNightBlueHorse_Neutral_4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BNightBlueHorse_Neutral_5"
+                    }
+                  },
+				  {
+                    "Key": 6,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BNightBlueHorse_Neutral_6"
+                    }
+                  },
+                  {
+                    "Key": 7,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BNightBlueHorse_Neutral_7"
+                    }
+                  },
+                  {
+                    "Key": 8,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BNightBlueHorse_Neutral_8"
+                    }
+                  },
+                  {
+                    "Key": 9,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BNightBlueHorse_Neutral_9"
+                    }
+                  },
+                  {
+                    "Key": 10,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BNightBlueHorse_Neutral_10"
+                    }
+                  }
+                ]
+            }
+        }
+    }
+}

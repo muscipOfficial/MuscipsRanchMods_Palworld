@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_MysteryMask":"Teaching Dark Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_MysteryMask":"The mask it wears is not its face, they say.\r\nIt seems in front, but it's not there, no way.\r\nFrom shadows deep, it watches night and day.\r\nGlance away, and closer it will stray.\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_MysteryMask":"While in party, \r\nincreases Party Pals' <Status_Keyword>EXP gained</> by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

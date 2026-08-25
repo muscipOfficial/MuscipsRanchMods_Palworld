@@ -1,0 +1,804 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "BlackPuppy_IceRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_001B": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_001C": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_001D": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_002B": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_002C": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_002D": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_003B": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_003C": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_003D": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_004B": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_004C": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_004D": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_005D": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_006D": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_007D": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_008D": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_009D": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BlackPuppy_IceRanch_010D": {
+            "FieldName": "CharacterSpawnItem_BlackPuppy_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_001B": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_001C": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_001D": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_002B": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_002C": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_002D": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_003B": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_003C": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_003D": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_004B": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_004C": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_004D": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_005D": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_006D": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_007D": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_008D": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_009D": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBlackPuppy_IceRanch_010D": {
+            "FieldName": "CharacterSpawnItem_BBlackPuppy_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}

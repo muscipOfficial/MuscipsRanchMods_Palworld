@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_BlackPuppy":"Digging Dog Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_BlackPuppy":"The black flames are merely warm to the touch, \r\nbut anything left in contact with them slowly melts from the inside. \r\nHold some cheese over them, and it becomes a true delicacy.\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_BlackPuppy":"When activated, \r\nuses its sharp sense of smell to detect nearby <itemName id=|Chromium| style=|Status_Keyword|/>. \r\n\r\nWhile fighting together, \r\n<itemName id=|Chromium| style=|Status_Keyword|/> acquisition increases by <Status_Up>+{Passive1_EffectValue1}%</>.\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

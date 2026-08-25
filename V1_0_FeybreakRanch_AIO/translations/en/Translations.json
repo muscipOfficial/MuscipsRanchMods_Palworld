@@ -1,0 +1,29 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_GoldenHorse":"Sandstorm Rancher",
+	"PARTNERSKILL_MysteryMask":"Teaching Dark Rancher",
+	"PARTNERSKILL_WhiteShieldDragon":"Aegis Dark Rancher",
+	"PARTNERSKILL_BlackPuppy":"Digging Dog Rancher",
+	"PARTNERSKILL_BlackPuppy_Ice":"Digging Cold Rancher",
+	"PARTNERSKILL_NightBlueHorse":"Night Rancher",
+	"PARTNERSKILL_NightBlueHorse_Neutral":"Light Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_GoldenHorse":"During the golden age of alchemy on the island, \r\nits ever-glowing golden fur was highly prized as a catalyst for transmuting gold.\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_LONG_DESC_MysteryMask":"The mask it wears is not its face, they say.\r\nIt seems in front, but it's not there, no way.\r\nFrom shadows deep, it watches night and day.\r\nGlance away, and closer it will stray.\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_LONG_DESC_WhiteShieldDragon":"The metallic components around its neck possess magnetic properties.\r\nIf the leg pieces get too close, they cling to it.\r\nWhen metal debris builds up on its neck, it grudgingly begins cleaning, \r\nand grows frustrated when they won't come off easily.\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_LONG_DESC_BlackPuppy":"The black flames are merely warm to the touch, \r\nbut anything left in contact with them slowly melts from the inside. \r\nHold some cheese over them, and it becomes a true delicacy.\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_LONG_DESC_BlackPuppy_Ice":"The blue flames are merely cool to the touch, \r\nbut anything left in contact with them slowly freezes.\r\nHold a milk bottle over them, and you get a frozen milkshake!\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_LONG_DESC_NightBlueHorse":"It takes great pride in its flowing, gorgeous mane.\r\nIf it finds a split end, it becomes so mortified it can't focus on running properly. \r\nBecause static electricity makes its hair frizzy, it avoids <characterName id=|BlueThunderHorse|/> at all costs.\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_LONG_DESC_NightBlueHorse_Neutral":"It takes great pride in its glowing, gorgeous mane.\r\nIf it gets even slightly dirty, it becomes so mortified \r\nit can't focus on running properly. \r\nBecause skin oils ruin its coat, it wants to avoid being touched too much,\r\neven by its favorite Pal Tamer.\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_GoldenHorse":"Can be ridden.\r\nChanges the player's attack type to <uiCommon id=|COMMON_ELEMENT_NAME_Earth|/> while mounted.\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_FIRST_SPAWN_DESC_MysteryMask":"While in party, \r\nincreases Party Pals' <Status_Keyword>EXP gained</> by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_FIRST_SPAWN_DESC_WhiteShieldDragon":"Can be ridden. \r\n\r\nWhile in party, \r\nreduces shield regeneration delay by <Status_Up>{Passive1_EffectValue1}%</> and reduces damage taken by your shield by <Status_Up>{Passive2_EffectValue1}%</>. (Does not stack)\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_FIRST_SPAWN_DESC_BlackPuppy":"When activated, \r\nuses its sharp sense of smell to detect nearby <itemName id=|Chromium| style=|Status_Keyword|/>. \r\n\r\nWhile fighting together, \r\n<itemName id=|Chromium| style=|Status_Keyword|/> acquisition increases by <Status_Up>+{Passive1_EffectValue1}%</>.\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_FIRST_SPAWN_DESC_BlackPuppy_Ice":"While at a base, \r\nincreases the <uiCommon id=|COMMON_WORK_SUITABILITY_Cool| style=|Status_Keyword|/> Work Suitability Level for all other Base Pals by <Status_Keyword>+{Passive1_EffectValue1}</>.\r\n(Does not stack)\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_FIRST_SPAWN_DESC_NightBlueHorse":"Can be ridden. \r\nBoosts jumping ability while mounted.\r\n\r\nThis Pal's movement speed increases by <Status_Up>+{Passive1_EffectValue1}%</> at night.\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_LONG_DESC_NightBlueHorse_Neutral":"Can be ridden. \r\nBoosts Jump Power while mounted. \r\n\r\nThis Pal’s Movement Speed increases by <Status_Up>{Passive1_EffectValue1}%</> for each other <img id=|ElemIcon_Neutral|/><uiCommon id=|COMMON_ELEMENT_NAME_Normal| style=|Elem_Neutral|/> Pal in your party. (Excluding <characterName id=|NightBlueHorse_Neutral|/>)\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

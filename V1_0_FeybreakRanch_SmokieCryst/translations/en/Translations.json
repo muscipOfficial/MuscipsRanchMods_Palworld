@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_BlackPuppy_Ice":"Digging Cold Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_BlackPuppy_Ice":"The blue flames are merely cool to the touch, \r\nbut anything left in contact with them slowly freezes.\r\nHold a milk bottle over them, and you get a frozen milkshake!\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_BlackPuppy_Ice":"While at a base, \r\nincreases the <uiCommon id=|COMMON_WORK_SUITABILITY_Cool| style=|Status_Keyword|/> Work Suitability Level for all other Base Pals by <Status_Keyword>+{Passive1_EffectValue1}</>.\r\n(Does not stack)\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

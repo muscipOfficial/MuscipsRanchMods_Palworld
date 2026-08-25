@@ -1,0 +1,1204 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "MysteryMaskRanch_001A": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_001B": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_001C": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_001D": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_002A": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_002B": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_002C": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_002D": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_003A": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_003B": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_003C": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_003D": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_004A": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_004B": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_004C": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_004D": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_005A": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_005B": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_005C": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_005D": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_006A": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_006B": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_006C": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_006D": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_007A": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_007B": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_007C": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_007D": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_008A": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_008B": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_008C": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_008D": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_009A": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_009B": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_009C": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_009D": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_010A": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_010B": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_010C": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MysteryMaskRanch_010D": {
+            "FieldName": "CharacterSpawnItem_MysteryMask_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_001B": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_001C": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_001D": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_002B": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_002C": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_002D": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_003B": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_003C": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_003D": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_004B": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_004C": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_004D": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_005D": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_006D": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_007D": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_008D": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_009D": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMysteryMaskRanch_010D": {
+            "FieldName": "CharacterSpawnItem_BMysteryMask_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_001A": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_001B": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_001C": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_001D": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_002A": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_002B": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_002C": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_002D": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_003A": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_003B": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_003C": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_003D": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_004A": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_004B": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_004C": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_004D": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_005A": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_005B": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_005C": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_005D": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_006A": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_006B": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_006C": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_006D": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_007A": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_007B": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_007C": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_007D": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_008A": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_008B": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_008C": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_008D": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_009A": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_009B": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_009C": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_009D": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_010A": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "Chromium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_010B": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "RainbowCrystal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_010C": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PMysteryMaskRanch_010D": {
+            "FieldName": "CharacterSpawnItem_PMysteryMask_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "NightStone",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_WhiteShieldDragon":"Aegis Dark Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_WhiteShieldDragon":"The metallic components around its neck possess magnetic properties.\r\nIf the leg pieces get too close, they cling to it.\r\nWhen metal debris builds up on its neck, it grudgingly begins cleaning, \r\nand grows frustrated when they won't come off easily.\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_WhiteShieldDragon":"Can be ridden. \r\n\r\nWhile in party, \r\nreduces shield regeneration delay by <Status_Up>{Passive1_EffectValue1}%</> and reduces damage taken by your shield by <Status_Up>{Passive2_EffectValue1}%</>. (Does not stack)\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

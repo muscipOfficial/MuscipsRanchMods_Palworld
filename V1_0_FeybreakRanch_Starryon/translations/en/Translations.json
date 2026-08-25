@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_NightBlueHorse":"Night Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_NightBlueHorse":"It takes great pride in its flowing, gorgeous mane.\r\nIf it finds a split end, it becomes so mortified it can't focus on running properly. \r\nBecause static electricity makes its hair frizzy, it avoids <characterName id=|BlueThunderHorse|/> at all costs.\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_NightBlueHorse":"Can be ridden. \r\nBoosts jumping ability while mounted.\r\n\r\nThis Pal's movement speed increases by <Status_Up>+{Passive1_EffectValue1}%</> at night.\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}
