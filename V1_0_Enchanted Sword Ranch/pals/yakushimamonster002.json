@@ -1,0 +1,22 @@
+{
+    "YakushimaMonster002":  {
+                        "WorkSuitability_MonsterFarm":  1,
+                        "RanchActionData":  {
+                                                "ChargeMontage":  "/Game/Pal/Animation/Character/Monster/YakushimaMonster002/AM_YakushimaMonster002_FarSkill_ActionLoop.AM_YakushimaMonster002_FarSkill_ActionLoop",
+                                                "FunMontage":  "/Game/Pal/Animation/Character/Monster/YakushimaMonster002/AM_YakushimaMonster002_Damage.AM_YakushimaMonster002_Damage",
+                                                "ChargeFacialEye":  "EPalFacialEyeType::Pain",
+                                                "FunFacialEye":  "EPalFacialEyeType::Smile",
+                                                "SpawnSocketName":  "None",
+                                                "SpawnLocationOffset":  {
+                                                                            "X":  0.0,
+                                                                            "Y":  0.0,
+                                                                            "Z":  0.0
+                                                                        },
+                                                "SpawnItemRotator":  {
+                                                                         "Pitch":  0.0,
+                                                                         "Yaw":  0.0,
+                                                                         "Roll":  0.0
+                                                                     }
+                                            }
+                    }
+}

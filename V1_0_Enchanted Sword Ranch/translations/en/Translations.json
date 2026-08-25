@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_YakushimaMonster002":"Metal Shedder"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_YakushimaMonster002":"[Tides of Terraria] \r\nA monster from another world, now tameable in this realm.\r\n\r\nGrows overtime but sheds <itemName id=|CopperOre| style=|Status_Keyword|/> by spinning while assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_YakushimaMonster002":"While in party, \r\n<img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> Pals drop <Status_Up>{Passive1_EffectValue1}%</> more items when defeated. (Does not stack)\r\n\r\nGrows overtime but sheds <itemName id=|CopperOre| style=|Status_Keyword|/> by spinning while assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}
