@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_PinkLizard":"Love nectar Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_PinkLizard":"Seeking a night of love, it is always chasing someone around.\r\nAt first it only showed interest in other Pals, but in recent years\r\neven humans have become the target of its debauchery.\r\n\r\nProduces dubious liquids and items while lounging in <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_PinkLizard":"While fighting together, \r\ngrants the player and <characterName id=|PinkLizard|/> a life steal effect that <Status_Keyword>restores</> <Status_Up>{Passive1_EffectValue1}%</> of damage dealt as <uiCommon id=|COMMON_STATUS_HP| style=|Status_Keyword|/>.\r\n\r\nProduces dubious liquids and items while lounging in <mapObjectName id=|MonsterFarm|/>."
+	}
+}

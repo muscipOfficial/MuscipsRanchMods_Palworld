@@ -1,0 +1,1564 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "PinkLizardRanch_001A": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.97,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_001B": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Cake",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_001C": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Opium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_001D": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Narcotic",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_002A": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.94,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_002B": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Cake",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_002C": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Opium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_002D": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Narcotic",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_002E": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.03,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_003A": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_003B": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Cake",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_003C": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Opium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_003D": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Narcotic",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_003E": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_004A": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.87,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_004B": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Cake",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_004C": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Opium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_004D": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Narcotic",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_004E": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_005A": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.82,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_005B": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Cake",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_005C": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Opium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_005D": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Narcotic",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_005E": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_005F": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "AffectionFruit_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_006A": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.82,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_006B": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Cake",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_006C": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Opium",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_006D": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Narcotic",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_006E": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_006F": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "AffectionFruit_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_007A": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.82,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_007B": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Cake",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_007C": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Opium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_007D": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Narcotic",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_007E": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_007F": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "AffectionFruit_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_008A": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.81,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_008B": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "Cake",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_008C": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "Supplement",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_008D": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "AffectionFruit_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_008E": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_009A": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.65,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_009B": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Cake",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_009C": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Supplement",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_009D": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.15,
+            "StaticItemId": "AffectionFruit_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_009E": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_010A": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_010B": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.5,
+            "StaticItemId": "Cake",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_010C": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Supplement",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_010D": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.15,
+            "StaticItemId": "AffectionFruit_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PinkLizardRanch_010E": {
+            "FieldName": "CharacterSpawnItem_PinkLizard_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.97,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_001B": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalGenderReverse",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_001C": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Opium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_001D": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Narcotic",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.94,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_002B": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalGenderReverse",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_002C": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Opium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_002D": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Narcotic",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_002E": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.03,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_003B": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalGenderReverse",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_003C": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Opium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_003D": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Narcotic",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_003E": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.87,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_004B": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalGenderReverse",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_004C": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Opium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_004D": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Narcotic",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_004E": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.82,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalGenderReverse",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Opium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_005D": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Narcotic",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_005E": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_005F": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "AffectionFruit_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.82,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalGenderReverse",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Opium",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_006D": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Narcotic",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_006E": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_006F": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "AffectionFruit_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.82,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalGenderReverse",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Opium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_007D": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Narcotic",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_007E": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_007F": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "AffectionFruit_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.81,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalGenderReverse",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "Supplement",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_008D": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "AffectionFruit_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_008E": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.65,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalGenderReverse",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Supplement",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_009D": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.15,
+            "StaticItemId": "AffectionFruit_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_009E": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.5,
+            "StaticItemId": "PalGenderReverse",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Supplement",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_010D": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.15,
+            "StaticItemId": "AffectionFruit_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BPinkLizardRanch_010E": {
+            "FieldName": "CharacterSpawnItem_BPinkLizard_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_001A": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.97,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_001B": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalGenderReverse",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_001C": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Opium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_001D": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Narcotic",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_002A": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.94,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_002B": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalGenderReverse",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_002C": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Opium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_002D": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Narcotic",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_002E": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.03,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_003A": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_003B": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalGenderReverse",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_003C": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Opium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_003D": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Narcotic",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_003E": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_004A": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.87,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_004B": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalGenderReverse",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_004C": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Opium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_004D": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Narcotic",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_004E": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_005A": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.82,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_005B": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalGenderReverse",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_005C": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Opium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_005D": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Narcotic",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_005E": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_005F": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "AffectionFruit_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_006A": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.82,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_006B": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalGenderReverse",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_006C": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Opium",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_006D": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Narcotic",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_006E": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_006F": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "AffectionFruit_01",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_007A": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.82,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_007B": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalGenderReverse",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_007C": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Opium",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_007D": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Narcotic",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_007E": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_007F": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "AffectionFruit_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_008A": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.81,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_008B": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalGenderReverse",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_008C": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "Supplement",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_008D": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "AffectionFruit_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_008E": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_009A": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.65,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_009B": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalGenderReverse",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_009C": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Supplement",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_009D": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.15,
+            "StaticItemId": "AffectionFruit_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_009E": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_010A": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_010B": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.5,
+            "StaticItemId": "PalGenderReverse",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_010C": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Supplement",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_010D": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.15,
+            "StaticItemId": "AffectionFruit_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PPinkLizardRanch_010E": {
+            "FieldName": "CharacterSpawnItem_PPinkLizard_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "AffectionFruit_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}
