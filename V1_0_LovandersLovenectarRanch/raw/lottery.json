@@ -43,7 +43,7 @@
         "PinkLizardRanch_002A": {
             "FieldName": "CharacterSpawnItem_PinkLizard_2",
             "SlotNo": 1,
-            "WeightInSlot": 0.95,
+            "WeightInSlot": 0.94,
             "StaticItemId": "PalFluid",
             "MinNum": 1,
             "MaxNum": 1,
@@ -193,7 +193,7 @@
         "PinkLizardRanch_005A": {
             "FieldName": "CharacterSpawnItem_PinkLizard_5",
             "SlotNo": 1,
-            "WeightInSlot": 0.87,
+            "WeightInSlot": 0.82,
             "StaticItemId": "PalFluid",
             "MinNum": 1,
             "MaxNum": 1,
@@ -253,7 +253,7 @@
         "PinkLizardRanch_006A": {
             "FieldName": "CharacterSpawnItem_PinkLizard_6",
             "SlotNo": 1,
-            "WeightInSlot": 0.83,
+            "WeightInSlot": 0.82,
             "StaticItemId": "PalFluid",
             "MinNum": 1,
             "MaxNum": 1,
@@ -313,7 +313,7 @@
         "PinkLizardRanch_007A": {
             "FieldName": "CharacterSpawnItem_PinkLizard_7",
             "SlotNo": 1,
-            "WeightInSlot": 0.83,
+            "WeightInSlot": 0.82,
             "StaticItemId": "PalFluid",
             "MinNum": 1,
             "MaxNum": 1,
@@ -563,7 +563,7 @@
         "BPinkLizardRanch_002A": {
             "FieldName": "CharacterSpawnItem_BPinkLizard_2",
             "SlotNo": 1,
-            "WeightInSlot": 0.95,
+            "WeightInSlot": 0.94,
             "StaticItemId": "PalFluid",
             "MinNum": 1,
             "MaxNum": 1,
@@ -713,7 +713,7 @@
         "BPinkLizardRanch_005A": {
             "FieldName": "CharacterSpawnItem_BPinkLizard_5",
             "SlotNo": 1,
-            "WeightInSlot": 0.87,
+            "WeightInSlot": 0.82,
             "StaticItemId": "PalFluid",
             "MinNum": 1,
             "MaxNum": 1,
@@ -773,7 +773,7 @@
         "BPinkLizardRanch_006A": {
             "FieldName": "CharacterSpawnItem_BPinkLizard_6",
             "SlotNo": 1,
-            "WeightInSlot": 0.83,
+            "WeightInSlot": 0.82,
             "StaticItemId": "PalFluid",
             "MinNum": 1,
             "MaxNum": 1,
@@ -833,7 +833,7 @@
         "BPinkLizardRanch_007A": {
             "FieldName": "CharacterSpawnItem_BPinkLizard_7",
             "SlotNo": 1,
-            "WeightInSlot": 0.83,
+            "WeightInSlot": 0.82,
             "StaticItemId": "PalFluid",
             "MinNum": 1,
             "MaxNum": 1,
@@ -1083,7 +1083,7 @@
         "PPinkLizardRanch_002A": {
             "FieldName": "CharacterSpawnItem_PPinkLizard_2",
             "SlotNo": 1,
-            "WeightInSlot": 0.95,
+            "WeightInSlot": 0.94,
             "StaticItemId": "PalFluid",
             "MinNum": 1,
             "MaxNum": 1,
@@ -1233,7 +1233,7 @@
         "PPinkLizardRanch_005A": {
             "FieldName": "CharacterSpawnItem_PPinkLizard_5",
             "SlotNo": 1,
-            "WeightInSlot": 0.87,
+            "WeightInSlot": 0.82,
             "StaticItemId": "PalFluid",
             "MinNum": 1,
             "MaxNum": 1,
@@ -1293,7 +1293,7 @@
         "PPinkLizardRanch_006A": {
             "FieldName": "CharacterSpawnItem_PPinkLizard_6",
             "SlotNo": 1,
-            "WeightInSlot": 0.83,
+            "WeightInSlot": 0.82,
             "StaticItemId": "PalFluid",
             "MinNum": 1,
             "MaxNum": 1,
@@ -1353,7 +1353,7 @@
         "PPinkLizardRanch_007A": {
             "FieldName": "CharacterSpawnItem_PPinkLizard_7",
             "SlotNo": 1,
-            "WeightInSlot": 0.83,
+            "WeightInSlot": 0.82,
             "StaticItemId": "PalFluid",
             "MinNum": 1,
             "MaxNum": 1,
