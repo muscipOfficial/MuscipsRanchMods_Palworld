@@ -1,0 +1,2404 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "GrimGirlRanch_001A": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_ChickenPal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_001B": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_001C": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_001D": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Eagle",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_001E": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_001F": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_001G": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_001H": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_001I": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_001J": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_002A": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_ChickenPal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_002B": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_002C": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_002D": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Eagle",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_002E": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_002F": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_002G": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_002H": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_002I": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_002J": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_003A": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_ChickenPal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_003B": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_003C": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_003D": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Eagle",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_003E": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_003F": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_003G": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_003H": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_003I": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_003J": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_004A": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_ChickenPal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_004B": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_004C": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_004D": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Eagle",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_004E": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_004F": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_004G": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_004H": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_004I": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_004J": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_005A": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_ChickenPal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_005B": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_005C": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_005D": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Eagle",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_005E": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_005F": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_005G": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_005H": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_005I": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_005J": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_006A": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_ChickenPal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_006B": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_006C": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_006D": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Eagle",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_006E": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_006F": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_006G": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_006H": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_006I": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_006J": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_007A": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_ChickenPal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_007B": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_007C": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_007D": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Eagle",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_007E": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_007F": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_007G": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_007H": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_007I": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_007J": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_008A": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_ChickenPal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_008B": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_008C": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_008D": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Eagle",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_008E": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_008F": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_008G": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_008H": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_008I": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_008J": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_009A": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_ChickenPal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_009B": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_009C": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_009D": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Eagle",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_009E": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_009F": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_009G": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_009H": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_009I": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_009J": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_010A": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_ChickenPal",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_010B": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_SheepBall",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_010C": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Kelpie",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_010D": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Eagle",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_010E": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Boar",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_010F": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_LazyCatfish",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_010G": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_Deer",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_010H": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_IceDeer",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_010I": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_BerryGoat",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GrimGirlRanch_010J": {
+            "FieldName": "CharacterSpawnItem_GrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Meat_CowPal",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SakuraSaurus",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_001B": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_001C": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_001D": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_001E": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_001F": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_001G": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SakuraSaurus",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_002B": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_002C": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_002D": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_002E": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_002F": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_002G": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SakuraSaurus",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_003B": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_003C": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_003D": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_003E": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_003F": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_003G": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SakuraSaurus",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_004B": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_004C": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_004D": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_004E": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_004F": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_004G": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SakuraSaurus",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_005D": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_005E": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_005F": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_005G": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SakuraSaurus",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_006D": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_006E": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_006F": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_006G": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SakuraSaurus",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_007D": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_007E": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_007F": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_007G": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SakuraSaurus",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_008D": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_008E": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_008F": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_008G": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SakuraSaurus",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_009D": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_009E": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_009F": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_009G": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SakuraSaurus",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_010D": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_010E": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_010F": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BGrimGirlRanch_010G": {
+            "FieldName": "CharacterSpawnItem_BGrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_001A": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SakuraSaurus",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_001B": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_001C": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_001D": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_001E": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_001F": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_001G": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_002A": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SakuraSaurus",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_002B": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_002C": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_002D": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_002E": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_002F": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_002G": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_003A": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SakuraSaurus",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_003B": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_003C": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_003D": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_003E": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_003F": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_003G": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_004A": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SakuraSaurus",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_004B": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_004C": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_004D": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_004E": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_004F": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_004G": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_005A": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SakuraSaurus",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_005B": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_005C": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_005D": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_005E": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_005F": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_005G": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_006A": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SakuraSaurus",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_006B": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_006C": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_006D": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_006E": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_006F": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_006G": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_007A": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SakuraSaurus",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_007B": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_007C": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_007D": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_007E": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_007F": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_007G": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_008A": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SakuraSaurus",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_008B": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_008C": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_008D": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_008E": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_008F": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_008G": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_009A": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SakuraSaurus",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_009B": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_009C": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_009D": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_009E": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_009F": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_009G": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_010A": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SakuraSaurus",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_010B": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_GrassMammoth",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_010C": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_OctopusGirl",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_010D": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishFairy",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_010E": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_JellyfishGhost",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_010F": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_IceCrocodile",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PGrimGirlRanch_010G": {
+            "FieldName": "CharacterSpawnItem_PGrimGirl_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.14,
+            "StaticItemId": "Meat_SwordCutlassFish",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}

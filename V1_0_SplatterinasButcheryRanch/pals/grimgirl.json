@@ -1,0 +1,62 @@
+{
+    "GrimGirl":  {
+                        "WorkSuitability_MonsterFarm":  1,
+                        "RanchActionData":  {
+                                                "ChargeMontage":  "/Game/Pal/Animation/Character/Monster/GrimGirl/AM_GrimGirl_FarSkill_ActionLoop.AM_GrimGirl_FarSkill_ActionLoop",
+                                                "FunMontage":  "/Game/Pal/Animation/Character/Monster/GrimGirl/AM_GrimGirl_Damage.AM_GrimGirl_Damage",
+                                                "ChargeFacialEye":  "EPalFacialEyeType::Pain",
+                                                "FunFacialEye":  "EPalFacialEyeType::Smile",
+                                                "SpawnSocketName":  "None",
+                                                "SpawnLocationOffset":  {
+                                                                            "X":  0.0,
+                                                                            "Y":  0.0,
+                                                                            "Z":  0.0
+                                                                        },
+                                                "SpawnItemRotator":  {
+                                                                         "Pitch":  0.0,
+                                                                         "Yaw":  0.0,
+                                                                         "Roll":  0.0
+                                                                     }
+                                            }
+                    },
+    "BOSS_GrimGirl":  {
+                             "WorkSuitability_MonsterFarm":  3,
+                             "RanchActionData":  {
+                                                     "ChargeMontage":  "/Game/Pal/Animation/Character/Monster/GrimGirl/AM_GrimGirl_FarSkill_ActionLoop.AM_GrimGirl_FarSkill_ActionLoop",
+                                                     "FunMontage":  "/Game/Pal/Animation/Character/Monster/GrimGirl/AM_GrimGirl_Damage.AM_GrimGirl_Damage",
+                                                     "ChargeFacialEye":  "EPalFacialEyeType::Pain",
+                                                     "FunFacialEye":  "EPalFacialEyeType::Smile",
+                                                     "SpawnSocketName":  "None",
+                                                     "SpawnLocationOffset":  {
+                                                                                 "X":  0.0,
+                                                                                 "Y":  0.0,
+                                                                                 "Z":  0.0
+                                                                             },
+                                                     "SpawnItemRotator":  {
+                                                                              "Pitch":  0.0,
+                                                                              "Yaw":  0.0,
+                                                                              "Roll":  0.0
+                                                                          }
+                                                 }
+                         },
+    "PREDATOR_GrimGirl":  {
+                             "WorkSuitability_MonsterFarm":  5,
+                             "RanchActionData":  {
+                                                     "ChargeMontage":  "/Game/Pal/Animation/Character/Monster/GrimGirl/AM_GrimGirl_FarSkill_ActionLoop.AM_GrimGirl_FarSkill_ActionLoop",
+                                                     "FunMontage":  "/Game/Pal/Animation/Character/Monster/GrimGirl/AM_GrimGirl_Damage.AM_GrimGirl_Damage",
+                                                     "ChargeFacialEye":  "EPalFacialEyeType::Pain",
+                                                     "FunFacialEye":  "EPalFacialEyeType::Smile",
+                                                     "SpawnSocketName":  "None",
+                                                     "SpawnLocationOffset":  {
+                                                                                 "X":  0.0,
+                                                                                 "Y":  0.0,
+                                                                                 "Z":  0.0
+                                                                             },
+                                                     "SpawnItemRotator":  {
+                                                                              "Pitch":  0.0,
+                                                                              "Yaw":  0.0,
+                                                                              "Roll":  0.0
+                                                                          }
+                                                 }
+                         }
+}

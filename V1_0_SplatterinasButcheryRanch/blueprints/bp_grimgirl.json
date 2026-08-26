@@ -1,0 +1,206 @@
+{
+	"BP_GrimGirl_C": {
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirl_1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirl_2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirl_3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirl_4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirl_5"
+                    }
+                  },
+				  {
+                    "Key": 6,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirl_6"
+                    }
+                  },
+                  {
+                    "Key": 7,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirl_7"
+                    }
+                  },
+                  {
+                    "Key": 8,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirl_8"
+                    }
+                  },
+                  {
+                    "Key": 9,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirl_9"
+                    }
+                  },
+                  {
+                    "Key": 10,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirl_10"
+                    }
+                  }
+                ]
+            }
+        }
+    },
+	"BP_GrimGirl_BOSS_C": {
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BGrimGirl_1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BGrimGirl_2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BGrimGirl_3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BGrimGirl_4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BGrimGirl_5"
+                    }
+                  },
+				  {
+                    "Key": 6,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BGrimGirl_6"
+                    }
+                  },
+                  {
+                    "Key": 7,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BGrimGirl_7"
+                    }
+                  },
+                  {
+                    "Key": 8,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BGrimGirl_8"
+                    }
+                  },
+                  {
+                    "Key": 9,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BGrimGirl_9"
+                    }
+                  },
+                  {
+                    "Key": 10,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BGrimGirl_10"
+                    }
+                  }
+                ]
+            }
+        }
+    },
+	"BP_GrimGirl_BOSS_Predator_C": {
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_PGrimGirl_1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_PGrimGirl_2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_PGrimGirl_3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_PGrimGirl_4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_PGrimGirl_5"
+                    }
+                  },
+				  {
+                    "Key": 6,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_PGrimGirl_6"
+                    }
+                  },
+                  {
+                    "Key": 7,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_PGrimGirl_7"
+                    }
+                  },
+                  {
+                    "Key": 8,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_PGrimGirl_8"
+                    }
+                  },
+                  {
+                    "Key": 9,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_PGrimGirl_9"
+                    }
+                  },
+                  {
+                    "Key": 10,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_PGrimGirl_10"
+                    }
+                  }
+                ]
+            }
+        }
+    }
+}

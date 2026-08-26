@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_GrimGirl":"Bloody Butcher Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_GrimGirl":"It has an uncontrollable urge to cut its prey apart.\r\nEach individual has their own meticulous order for dismemberment.\r\nIf caught by <characterName id=|GrimGirl|/>, pray that your head is taken first.\r\n\r\nChops up wild pals and spreads their <Status_Keyword>meat</> while assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_GrimGirl":"While in party, \r\nthe amount of items obtained from using the <itemName id=|MeatCutterKnife|/> increases by <Status_Up>{Passive1_EffectValue1}%</>. \r\n(Does not stack)\r\n\r\nGathers and splatters wild pal <Status_Keyword>meat</> around for their beloved while assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}
