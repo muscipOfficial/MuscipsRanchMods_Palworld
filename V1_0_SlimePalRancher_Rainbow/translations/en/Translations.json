@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_YakushimaMonster001_Rainbow":"Captivating Slime Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_YakushimaMonster001_Rainbow":"[Tides of Terraria] \r\nA monster from another world, now tameable in this realm.\r\n\r\nIts cells mysteriously reforms matter into working <Status_Keyword>Pal Spheres</> while assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_YakushimaMonster001_Rainbow":"Can be ridden. \r\nCan jump high into the air while mounted.\r\n\r\nIts cells mysteriously reforms matter into working <Status_Keyword>Pal Spheres</> while assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

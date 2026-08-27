@@ -1,0 +1,224 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "YakushimaMonster001_PurpleRanch_001A": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Purple_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "MeteorDrop",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_PurpleRanch_002A": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Purple_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "MeteorDrop",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_PurpleRanch_003A": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Purple_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "MeteorDrop",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_PurpleRanch_004A": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Purple_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "MeteorDrop",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_PurpleRanch_005A": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Purple_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "MeteorDrop",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_PurpleRanch_005B": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Purple_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_PurpleRanch_005C": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Purple_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Venom",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_PurpleRanch_006A": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Purple_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "MeteorDrop",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_PurpleRanch_006B": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Purple_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_PurpleRanch_006C": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Purple_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Venom",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_PurpleRanch_007A": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Purple_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "MeteorDrop",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_PurpleRanch_007B": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Purple_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_PurpleRanch_007C": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Purple_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Venom",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_PurpleRanch_008A": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Purple_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "MeteorDrop",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_PurpleRanch_008B": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Purple_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_PurpleRanch_008C": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Purple_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Venom",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_PurpleRanch_009A": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Purple_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "MeteorDrop",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_PurpleRanch_009B": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Purple_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_PurpleRanch_009C": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Purple_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Venom",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_PurpleRanch_010A": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Purple_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "MeteorDrop",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_PurpleRanch_010B": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Purple_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalDarkParts",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_PurpleRanch_010C": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Purple_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Venom",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}

@@ -1,0 +1,224 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "YakushimaMonster001_BlueRanch_001A": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Blue_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Pal_crystal_S",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_BlueRanch_002A": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Blue_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Pal_crystal_S",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_BlueRanch_003A": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Blue_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Pal_crystal_S",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_BlueRanch_004A": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Blue_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Pal_crystal_S",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_BlueRanch_005A": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Blue_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.89,
+            "StaticItemId": "Pal_crystal_S",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_BlueRanch_005B": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Blue_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_BlueRanch_005C": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Blue_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Sapphire",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_BlueRanch_006A": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Blue_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.88,
+            "StaticItemId": "Pal_crystal_S",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 6,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_BlueRanch_006B": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Blue_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_BlueRanch_006C": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Blue_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "Sapphire",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_BlueRanch_007A": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Blue_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.86,
+            "StaticItemId": "Pal_crystal_S",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 7,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_BlueRanch_007B": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Blue_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_BlueRanch_007C": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Blue_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "Sapphire",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_BlueRanch_008A": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Blue_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.85,
+            "StaticItemId": "Pal_crystal_S",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 8,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_BlueRanch_008B": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Blue_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_BlueRanch_008C": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Blue_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Sapphire",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_BlueRanch_009A": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Blue_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Pal_crystal_S",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 9,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_BlueRanch_009B": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Blue_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_BlueRanch_009C": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Blue_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Sapphire",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_BlueRanch_010A": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Blue_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Pal_crystal_S",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 15,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_BlueRanch_010B": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Blue_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalFluid",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 15,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "YakushimaMonster001_BlueRanch_010C": {
+            "FieldName": "CharacterSpawnItem_YakushimaMonster001_Blue_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Sapphire",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}

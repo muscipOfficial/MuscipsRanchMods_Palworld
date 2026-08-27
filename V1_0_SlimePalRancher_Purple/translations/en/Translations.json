@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_YakushimaMonster001_Purple":"Terrestial Slime Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_YakushimaMonster001_Purple":"[Tides of Terraria] \r\nA monster from another world, now tameable in this realm.\r\n\r\nIts slime hardens into <itemName id=|MeteorDrop| style=|Status_Keyword|/> and falls off while assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_YakushimaMonster001_Purple":"Can be ridden. \r\nCan jump high into the air while mounted.\r\n\r\nIts slime hardens into <itemName id=|MeteorDrop| style=|Status_Keyword|/> and falls off while assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

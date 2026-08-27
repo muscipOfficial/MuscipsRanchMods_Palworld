@@ -1,0 +1,34 @@
+{
+    "DT_FieldLotteryNameDataTable": {
+        "CharacterSpawnItem_YakushimaMonster001_1": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_YakushimaMonster001_2": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_YakushimaMonster001_3": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_YakushimaMonster001_4": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_YakushimaMonster001_5": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_YakushimaMonster001_6": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_YakushimaMonster001_7": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_YakushimaMonster001_8": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_YakushimaMonster001_9": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_YakushimaMonster001_10": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        }
+    }
+}

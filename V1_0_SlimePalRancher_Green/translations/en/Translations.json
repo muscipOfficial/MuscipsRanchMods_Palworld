@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_YakushimaMonster001":"Oily Slime Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_YakushimaMonster001":"[Tides of Terraria] \r\nA monster from another world, now tameable in this realm.\r\n\r\nOozes <itemName id=|PalOil| style=|Status_Keyword|/> while assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_YakushimaMonster001":"Can be ridden. \r\nCan jump high into the air while mounted.\r\n\r\nOozes <itemName id=|PalOil| style=|Status_Keyword|/> while assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}
