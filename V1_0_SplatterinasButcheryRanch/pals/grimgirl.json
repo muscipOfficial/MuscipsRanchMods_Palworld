@@ -20,7 +20,7 @@
                                             }
                     },
     "BOSS_GrimGirl":  {
-                             "WorkSuitability_MonsterFarm":  3,
+                             "WorkSuitability_MonsterFarm":  1,
                              "RanchActionData":  {
                                                      "ChargeMontage":  "/Game/Pal/Animation/Character/Monster/GrimGirl/AM_GrimGirl_FarSkill_ActionLoop.AM_GrimGirl_FarSkill_ActionLoop",
                                                      "FunMontage":  "/Game/Pal/Animation/Character/Monster/GrimGirl/AM_GrimGirl_Damage.AM_GrimGirl_Damage",
@@ -40,7 +40,7 @@
                                                  }
                          },
     "PREDATOR_GrimGirl":  {
-                             "WorkSuitability_MonsterFarm":  5,
+                             "WorkSuitability_MonsterFarm":  3,
                              "RanchActionData":  {
                                                      "ChargeMontage":  "/Game/Pal/Animation/Character/Monster/GrimGirl/AM_GrimGirl_FarSkill_ActionLoop.AM_GrimGirl_FarSkill_ActionLoop",
                                                      "FunMontage":  "/Game/Pal/Animation/Character/Monster/GrimGirl/AM_GrimGirl_Damage.AM_GrimGirl_Damage",
