@@ -1,0 +1,42 @@
+{
+    "SnowPeafowl":  {
+                        "WorkSuitability_MonsterFarm":  1,
+                        "RanchActionData":  {
+                                                "ChargeMontage":  "/Game/Pal/Animation/Character/Monster/SnowPeafowl/AM_SnowPeafowl_FarSkill_ActionLoop.AM_SnowPeafowl_FarSkill_ActionLoop",
+                                                "FunMontage":  "/Game/Pal/Animation/Character/Monster/SnowPeafowl/AM_SnowPeafowl_Damage.AM_SnowPeafowl_Damage",
+                                                "ChargeFacialEye":  "EPalFacialEyeType::Pain",
+                                                "FunFacialEye":  "EPalFacialEyeType::Smile",
+                                                "SpawnSocketName":  "None",
+                                                "SpawnLocationOffset":  {
+                                                                            "X":  0.0,
+                                                                            "Y":  0.0,
+                                                                            "Z":  0.0
+                                                                        },
+                                                "SpawnItemRotator":  {
+                                                                         "Pitch":  0.0,
+                                                                         "Yaw":  0.0,
+                                                                         "Roll":  0.0
+                                                                     }
+                                            }
+                    },
+    "BOSS_SnowPeafowl":  {
+                             "WorkSuitability_MonsterFarm":  3,
+                             "RanchActionData":  {
+                                                     "ChargeMontage":  "/Game/Pal/Animation/Character/Monster/SnowPeafowl/AM_SnowPeafowl_FarSkill_ActionLoop.AM_SnowPeafowl_FarSkill_ActionLoop",
+                                                     "FunMontage":  "/Game/Pal/Animation/Character/Monster/SnowPeafowl/AM_SnowPeafowl_Damage.AM_SnowPeafowl_Damage",
+                                                     "ChargeFacialEye":  "EPalFacialEyeType::Pain",
+                                                     "FunFacialEye":  "EPalFacialEyeType::Smile",
+                                                     "SpawnSocketName":  "None",
+                                                     "SpawnLocationOffset":  {
+                                                                                 "X":  0.0,
+                                                                                 "Y":  0.0,
+                                                                                 "Z":  0.0
+                                                                             },
+                                                     "SpawnItemRotator":  {
+                                                                              "Pitch":  0.0,
+                                                                              "Yaw":  0.0,
+                                                                              "Roll":  0.0
+                                                                          }
+                                                 }
+                         }
+}

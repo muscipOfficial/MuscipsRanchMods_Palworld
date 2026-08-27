@@ -2406,8 +2406,8 @@
             "WeightInSlot": 0.49,
             "StaticItemId": "Egg",
             "MinNum": 1,
-            "MaxNum": 5,
-            "NumUnit": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
             "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
         },
         "Horus_WaterRanch_005B": {
@@ -2426,7 +2426,7 @@
             "WeightInSlot": 0.02,
             "StaticItemId": "PalItem_ToSell_02",
             "MinNum": 1,
-            "MaxNum": 1,
+            "MaxNum": 5,
             "NumUnit": 1,
             "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
         },
@@ -2666,8 +2666,8 @@
             "WeightInSlot": 0.49,
             "StaticItemId": "Egg",
             "MinNum": 1,
-            "MaxNum": 5,
-            "NumUnit": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
             "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
         },
         "BHorus_WaterRanch_005B": {
@@ -2686,7 +2686,7 @@
             "WeightInSlot": 0.02,
             "StaticItemId": "PalItem_ToSell_02",
             "MinNum": 1,
-            "MaxNum": 1,
+            "MaxNum": 5,
             "NumUnit": 1,
             "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
         },
