@@ -1,0 +1,70 @@
+{
+	"BP_YakushimaMonster001_Rainbow_Normal_C": {
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_YakushimaMonster001_Rainbow_1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_YakushimaMonster001_Rainbow_2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_YakushimaMonster001_Rainbow_3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_YakushimaMonster001_Rainbow_4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_YakushimaMonster001_Rainbow_5"
+                    }
+                  },
+				  {
+                    "Key": 6,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_YakushimaMonster001_Rainbow_6"
+                    }
+                  },
+                  {
+                    "Key": 7,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_YakushimaMonster001_Rainbow_7"
+                    }
+                  },
+                  {
+                    "Key": 8,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_YakushimaMonster001_Rainbow_8"
+                    }
+                  },
+                  {
+                    "Key": 9,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_YakushimaMonster001_Rainbow_9"
+                    }
+                  },
+                  {
+                    "Key": 10,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_YakushimaMonster001_Rainbow_10"
+                    }
+                  }
+                ]
+            }
+        }
+    }
+}

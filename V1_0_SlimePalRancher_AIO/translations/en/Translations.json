@@ -1,0 +1,26 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_YakushimaMonster001_Blue":"Paldium Slime Rancher",
+	"PARTNERSKILL_YakushimaMonster001_Red":"Coralum Slime Rancher",
+	"PARTNERSKILL_YakushimaMonster001":"Oily Slime Rancher",
+	"PARTNERSKILL_YakushimaMonster001_Pink":"Sweet Slime Rancher",
+	"PARTNERSKILL_YakushimaMonster001_Purple":"Terrestial Slime Rancher",
+	"PARTNERSKILL_YakushimaMonster001_Rainbow":"Captivating Slime Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_YakushimaMonster001_Blue":"[Tides of Terraria] \r\nA monster from another world, now tameable in this realm.\r\n\r\nIts slime hardens into <itemName id=|Pal_crystal_S| style=|Status_Keyword|/> and falls off while assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_LONG_DESC_YakushimaMonster001_Red":"[Tides of Terraria] \r\nA monster from another world, now tameable in this realm.\r\n\r\nIts slime hardens into <itemName id=|ManganeseOre| style=|Status_Keyword|/> and falls off while assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_LONG_DESC_YakushimaMonster001":"[Tides of Terraria] \r\nA monster from another world, now tameable in this realm.\r\n\r\nOozes <itemName id=|PalOil| style=|Status_Keyword|/> while assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_LONG_DESC_YakushimaMonster001_Pink":"[Tides of Terraria] \r\nA monster from another world, now tameable in this realm.\r\n\r\nSecretes <itemName id=|Sweet| style=|Status_Keyword|/> while assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_LONG_DESC_YakushimaMonster001_Purple":"[Tides of Terraria] \r\nA monster from another world, now tameable in this realm.\r\n\r\nIts slime hardens into <itemName id=|MeteorDrop| style=|Status_Keyword|/> and falls off while assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_LONG_DESC_YakushimaMonster001_Rainbow":"[Tides of Terraria] \r\nA monster from another world, now tameable in this realm.\r\n\r\nIts cells mysteriously reforms matter into working <Status_Keyword>Pal Spheres</> while assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_YakushimaMonster001_Blue":"Can be ridden. \r\nCan jump high into the air while mounted.\r\n\r\nIts slime hardens into <itemName id=|Pal_crystal_S| style=|Status_Keyword|/> and falls off while assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_FIRST_SPAWN_DESC_YakushimaMonster001_Red":"Can be ridden. \r\nCan jump high into the air while mounted.\r\n\r\nIts slime hardens into <itemName id=|ManganeseOre| style=|Status_Keyword|/> and falls off while assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_FIRST_SPAWN_DESC_YakushimaMonster001":"Can be ridden. \r\nCan jump high into the air while mounted.\r\n\r\nOozes <itemName id=|PalOil| style=|Status_Keyword|/> while assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_FIRST_SPAWN_DESC_YakushimaMonster001_Pink":"Can be ridden. \r\nCan jump high into the air while mounted.\r\n\r\nSecretes <itemName id=|Sweet| style=|Status_Keyword|/> while assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_FIRST_SPAWN_DESC_YakushimaMonster001_Purple":"Can be ridden. \r\nCan jump high into the air while mounted.\r\n\r\nIts slime hardens into <itemName id=|MeteorDrop| style=|Status_Keyword|/> and falls off while assigned to <mapObjectName id=|MonsterFarm|/>.",
+	"PAL_FIRST_SPAWN_DESC_YakushimaMonster001_Rainbow":"Can be ridden. \r\nCan jump high into the air while mounted.\r\n\r\nIts cells mysteriously reforms matter into working <Status_Keyword>Pal Spheres</> while assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}
