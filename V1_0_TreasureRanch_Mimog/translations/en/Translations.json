@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_MimicDog":"Treasure Ranch Pupper"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_MimicDog":"There was once a tradition of handing out an award\r\nto the person who met their end in the most foolish way.\r\nThe first award was given for\r\n|being unaware of <characterName id=|MimicDog|/>, opening the chest, and being bitten to death.|\r\n\r\nDrops <Status_Keyword>treasure</> and <Status_Keyword>books</> while assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_MimicDog":"While fighting together, \r\n<characterName id=|MimicDog|/> can open treasure chests without using a key. {ReferenceMsgId_CooldownReduction}\r\n\r\nDrops <Status_Keyword>treasure</> and <Status_Keyword>books</> while assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

@@ -1,0 +1,4204 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "MimicDogRanch_001A": {
+            "FieldName": "CharacterSpawnItem_MimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "DogCoin",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_001B": {
+            "FieldName": "CharacterSpawnItem_MimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureMap01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_001C": {
+            "FieldName": "CharacterSpawnItem_MimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TechnologyBook_G1",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_001D": {
+            "FieldName": "CharacterSpawnItem_MimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_001E": {
+            "FieldName": "CharacterSpawnItem_MimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_001F": {
+            "FieldName": "CharacterSpawnItem_MimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey03",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_001G": {
+            "FieldName": "CharacterSpawnItem_MimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_001H": {
+            "FieldName": "CharacterSpawnItem_MimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_attack_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_001I": {
+            "FieldName": "CharacterSpawnItem_MimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit__defense_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_001J": {
+            "FieldName": "CharacterSpawnItem_MimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_EmitFlame",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_001K": {
+            "FieldName": "CharacterSpawnItem_MimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Watering",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_001L": {
+            "FieldName": "CharacterSpawnItem_MimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Seeding",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_001M": {
+            "FieldName": "CharacterSpawnItem_MimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_GenerateElectricity",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_001N": {
+            "FieldName": "CharacterSpawnItem_MimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Handcraft",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_001O": {
+            "FieldName": "CharacterSpawnItem_MimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Collection",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_001P": {
+            "FieldName": "CharacterSpawnItem_MimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Deforest",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_001Q": {
+            "FieldName": "CharacterSpawnItem_MimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Mining",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_001R": {
+            "FieldName": "CharacterSpawnItem_MimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_ProductMedicine",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_001S": {
+            "FieldName": "CharacterSpawnItem_MimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Cool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_001T": {
+            "FieldName": "CharacterSpawnItem_MimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Transport",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_001U": {
+            "FieldName": "CharacterSpawnItem_MimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_MonsterFarm",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_002A": {
+            "FieldName": "CharacterSpawnItem_MimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "DogCoin",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_002B": {
+            "FieldName": "CharacterSpawnItem_MimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureMap01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_002C": {
+            "FieldName": "CharacterSpawnItem_MimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TechnologyBook_G1",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_002D": {
+            "FieldName": "CharacterSpawnItem_MimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_002E": {
+            "FieldName": "CharacterSpawnItem_MimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_002F": {
+            "FieldName": "CharacterSpawnItem_MimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey03",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_002G": {
+            "FieldName": "CharacterSpawnItem_MimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_002H": {
+            "FieldName": "CharacterSpawnItem_MimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_attack_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_002I": {
+            "FieldName": "CharacterSpawnItem_MimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit__defense_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_002J": {
+            "FieldName": "CharacterSpawnItem_MimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_EmitFlame",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_002K": {
+            "FieldName": "CharacterSpawnItem_MimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Watering",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_002L": {
+            "FieldName": "CharacterSpawnItem_MimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Seeding",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_002M": {
+            "FieldName": "CharacterSpawnItem_MimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_GenerateElectricity",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_002N": {
+            "FieldName": "CharacterSpawnItem_MimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Handcraft",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_002O": {
+            "FieldName": "CharacterSpawnItem_MimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Collection",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_002P": {
+            "FieldName": "CharacterSpawnItem_MimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Deforest",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_002Q": {
+            "FieldName": "CharacterSpawnItem_MimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Mining",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_002R": {
+            "FieldName": "CharacterSpawnItem_MimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_ProductMedicine",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_002S": {
+            "FieldName": "CharacterSpawnItem_MimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Cool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_002T": {
+            "FieldName": "CharacterSpawnItem_MimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Transport",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_002U": {
+            "FieldName": "CharacterSpawnItem_MimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_MonsterFarm",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_003A": {
+            "FieldName": "CharacterSpawnItem_MimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "DogCoin",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_003B": {
+            "FieldName": "CharacterSpawnItem_MimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureMap01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_003C": {
+            "FieldName": "CharacterSpawnItem_MimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TechnologyBook_G1",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_003D": {
+            "FieldName": "CharacterSpawnItem_MimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_003E": {
+            "FieldName": "CharacterSpawnItem_MimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_003F": {
+            "FieldName": "CharacterSpawnItem_MimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey03",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_003G": {
+            "FieldName": "CharacterSpawnItem_MimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_003H": {
+            "FieldName": "CharacterSpawnItem_MimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_attack_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_003I": {
+            "FieldName": "CharacterSpawnItem_MimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit__defense_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_003J": {
+            "FieldName": "CharacterSpawnItem_MimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_EmitFlame",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_003K": {
+            "FieldName": "CharacterSpawnItem_MimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Watering",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_003L": {
+            "FieldName": "CharacterSpawnItem_MimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Seeding",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_003M": {
+            "FieldName": "CharacterSpawnItem_MimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_GenerateElectricity",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_003N": {
+            "FieldName": "CharacterSpawnItem_MimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Handcraft",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_003O": {
+            "FieldName": "CharacterSpawnItem_MimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Collection",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_003P": {
+            "FieldName": "CharacterSpawnItem_MimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Deforest",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_003Q": {
+            "FieldName": "CharacterSpawnItem_MimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Mining",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_003R": {
+            "FieldName": "CharacterSpawnItem_MimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_ProductMedicine",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_003S": {
+            "FieldName": "CharacterSpawnItem_MimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Cool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_003T": {
+            "FieldName": "CharacterSpawnItem_MimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Transport",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_003U": {
+            "FieldName": "CharacterSpawnItem_MimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_MonsterFarm",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_004A": {
+            "FieldName": "CharacterSpawnItem_MimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "DogCoin",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_004B": {
+            "FieldName": "CharacterSpawnItem_MimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureMap01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_004C": {
+            "FieldName": "CharacterSpawnItem_MimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TechnologyBook_G1",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_004D": {
+            "FieldName": "CharacterSpawnItem_MimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_004E": {
+            "FieldName": "CharacterSpawnItem_MimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_004F": {
+            "FieldName": "CharacterSpawnItem_MimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey03",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_004G": {
+            "FieldName": "CharacterSpawnItem_MimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_004H": {
+            "FieldName": "CharacterSpawnItem_MimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_attack_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_004I": {
+            "FieldName": "CharacterSpawnItem_MimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit__defense_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_004J": {
+            "FieldName": "CharacterSpawnItem_MimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_EmitFlame",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_004K": {
+            "FieldName": "CharacterSpawnItem_MimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Watering",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_004L": {
+            "FieldName": "CharacterSpawnItem_MimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Seeding",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_004M": {
+            "FieldName": "CharacterSpawnItem_MimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_GenerateElectricity",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_004N": {
+            "FieldName": "CharacterSpawnItem_MimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Handcraft",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_004O": {
+            "FieldName": "CharacterSpawnItem_MimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Collection",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_004P": {
+            "FieldName": "CharacterSpawnItem_MimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Deforest",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_004Q": {
+            "FieldName": "CharacterSpawnItem_MimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Mining",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_004R": {
+            "FieldName": "CharacterSpawnItem_MimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_ProductMedicine",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_004S": {
+            "FieldName": "CharacterSpawnItem_MimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Cool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_004T": {
+            "FieldName": "CharacterSpawnItem_MimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Transport",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_004U": {
+            "FieldName": "CharacterSpawnItem_MimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_MonsterFarm",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_005A": {
+            "FieldName": "CharacterSpawnItem_MimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "DogCoin",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_005B": {
+            "FieldName": "CharacterSpawnItem_MimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureMap01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_005C": {
+            "FieldName": "CharacterSpawnItem_MimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TechnologyBook_G1",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_005D": {
+            "FieldName": "CharacterSpawnItem_MimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_005E": {
+            "FieldName": "CharacterSpawnItem_MimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_005F": {
+            "FieldName": "CharacterSpawnItem_MimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey03",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_005G": {
+            "FieldName": "CharacterSpawnItem_MimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_005H": {
+            "FieldName": "CharacterSpawnItem_MimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_attack_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_005I": {
+            "FieldName": "CharacterSpawnItem_MimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit__defense_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_005J": {
+            "FieldName": "CharacterSpawnItem_MimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_EmitFlame",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_005K": {
+            "FieldName": "CharacterSpawnItem_MimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Watering",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_005L": {
+            "FieldName": "CharacterSpawnItem_MimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Seeding",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_005M": {
+            "FieldName": "CharacterSpawnItem_MimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_GenerateElectricity",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_005N": {
+            "FieldName": "CharacterSpawnItem_MimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Handcraft",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_005O": {
+            "FieldName": "CharacterSpawnItem_MimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Collection",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_005P": {
+            "FieldName": "CharacterSpawnItem_MimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Deforest",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_005Q": {
+            "FieldName": "CharacterSpawnItem_MimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Mining",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_005R": {
+            "FieldName": "CharacterSpawnItem_MimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_ProductMedicine",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_005S": {
+            "FieldName": "CharacterSpawnItem_MimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Cool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_005T": {
+            "FieldName": "CharacterSpawnItem_MimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Transport",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_005U": {
+            "FieldName": "CharacterSpawnItem_MimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_MonsterFarm",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_006A": {
+            "FieldName": "CharacterSpawnItem_MimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "DogCoin",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_006B": {
+            "FieldName": "CharacterSpawnItem_MimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureMap01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_006C": {
+            "FieldName": "CharacterSpawnItem_MimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TechnologyBook_G1",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_006D": {
+            "FieldName": "CharacterSpawnItem_MimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_006E": {
+            "FieldName": "CharacterSpawnItem_MimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_006F": {
+            "FieldName": "CharacterSpawnItem_MimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey03",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_006G": {
+            "FieldName": "CharacterSpawnItem_MimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_006H": {
+            "FieldName": "CharacterSpawnItem_MimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_attack_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_006I": {
+            "FieldName": "CharacterSpawnItem_MimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit__defense_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_006J": {
+            "FieldName": "CharacterSpawnItem_MimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_EmitFlame",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_006K": {
+            "FieldName": "CharacterSpawnItem_MimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Watering",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_006L": {
+            "FieldName": "CharacterSpawnItem_MimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Seeding",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_006M": {
+            "FieldName": "CharacterSpawnItem_MimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_GenerateElectricity",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_006N": {
+            "FieldName": "CharacterSpawnItem_MimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Handcraft",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_006O": {
+            "FieldName": "CharacterSpawnItem_MimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Collection",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_006P": {
+            "FieldName": "CharacterSpawnItem_MimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Deforest",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_006Q": {
+            "FieldName": "CharacterSpawnItem_MimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Mining",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_006R": {
+            "FieldName": "CharacterSpawnItem_MimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_ProductMedicine",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_006S": {
+            "FieldName": "CharacterSpawnItem_MimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Cool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_006T": {
+            "FieldName": "CharacterSpawnItem_MimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Transport",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_006U": {
+            "FieldName": "CharacterSpawnItem_MimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_MonsterFarm",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_007A": {
+            "FieldName": "CharacterSpawnItem_MimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "DogCoin",
+            "MinNum": 1,
+            "MaxNum": 7,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_007B": {
+            "FieldName": "CharacterSpawnItem_MimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureMap01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_007C": {
+            "FieldName": "CharacterSpawnItem_MimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TechnologyBook_G1",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_007D": {
+            "FieldName": "CharacterSpawnItem_MimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_007E": {
+            "FieldName": "CharacterSpawnItem_MimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_007F": {
+            "FieldName": "CharacterSpawnItem_MimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey03",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_007G": {
+            "FieldName": "CharacterSpawnItem_MimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_007H": {
+            "FieldName": "CharacterSpawnItem_MimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_attack_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_007I": {
+            "FieldName": "CharacterSpawnItem_MimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit__defense_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_007J": {
+            "FieldName": "CharacterSpawnItem_MimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_EmitFlame",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_007K": {
+            "FieldName": "CharacterSpawnItem_MimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Watering",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_007L": {
+            "FieldName": "CharacterSpawnItem_MimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Seeding",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_007M": {
+            "FieldName": "CharacterSpawnItem_MimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_GenerateElectricity",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_007N": {
+            "FieldName": "CharacterSpawnItem_MimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Handcraft",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_007O": {
+            "FieldName": "CharacterSpawnItem_MimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Collection",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_007P": {
+            "FieldName": "CharacterSpawnItem_MimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Deforest",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_007Q": {
+            "FieldName": "CharacterSpawnItem_MimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Mining",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_007R": {
+            "FieldName": "CharacterSpawnItem_MimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_ProductMedicine",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_007S": {
+            "FieldName": "CharacterSpawnItem_MimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Cool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_007T": {
+            "FieldName": "CharacterSpawnItem_MimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Transport",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_007U": {
+            "FieldName": "CharacterSpawnItem_MimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_MonsterFarm",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_008A": {
+            "FieldName": "CharacterSpawnItem_MimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "DogCoin",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_008B": {
+            "FieldName": "CharacterSpawnItem_MimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureMap01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_008C": {
+            "FieldName": "CharacterSpawnItem_MimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TechnologyBook_G1",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_008D": {
+            "FieldName": "CharacterSpawnItem_MimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_008E": {
+            "FieldName": "CharacterSpawnItem_MimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_008F": {
+            "FieldName": "CharacterSpawnItem_MimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey03",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_008G": {
+            "FieldName": "CharacterSpawnItem_MimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_008H": {
+            "FieldName": "CharacterSpawnItem_MimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_attack_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_008I": {
+            "FieldName": "CharacterSpawnItem_MimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit__defense_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_008J": {
+            "FieldName": "CharacterSpawnItem_MimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_EmitFlame",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_008K": {
+            "FieldName": "CharacterSpawnItem_MimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Watering",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_008L": {
+            "FieldName": "CharacterSpawnItem_MimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Seeding",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_008M": {
+            "FieldName": "CharacterSpawnItem_MimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_GenerateElectricity",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_008N": {
+            "FieldName": "CharacterSpawnItem_MimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Handcraft",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_008O": {
+            "FieldName": "CharacterSpawnItem_MimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Collection",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_008P": {
+            "FieldName": "CharacterSpawnItem_MimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Deforest",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_008Q": {
+            "FieldName": "CharacterSpawnItem_MimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Mining",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_008R": {
+            "FieldName": "CharacterSpawnItem_MimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_ProductMedicine",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_008S": {
+            "FieldName": "CharacterSpawnItem_MimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Cool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_008T": {
+            "FieldName": "CharacterSpawnItem_MimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Transport",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_008U": {
+            "FieldName": "CharacterSpawnItem_MimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_MonsterFarm",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_009A": {
+            "FieldName": "CharacterSpawnItem_MimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "DogCoin",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_009B": {
+            "FieldName": "CharacterSpawnItem_MimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureMap01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_009C": {
+            "FieldName": "CharacterSpawnItem_MimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TechnologyBook_G1",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_009D": {
+            "FieldName": "CharacterSpawnItem_MimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_009E": {
+            "FieldName": "CharacterSpawnItem_MimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_009F": {
+            "FieldName": "CharacterSpawnItem_MimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey03",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_009G": {
+            "FieldName": "CharacterSpawnItem_MimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_009H": {
+            "FieldName": "CharacterSpawnItem_MimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_attack_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_009I": {
+            "FieldName": "CharacterSpawnItem_MimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit__defense_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_009J": {
+            "FieldName": "CharacterSpawnItem_MimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_EmitFlame",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_009K": {
+            "FieldName": "CharacterSpawnItem_MimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Watering",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_009L": {
+            "FieldName": "CharacterSpawnItem_MimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Seeding",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_009M": {
+            "FieldName": "CharacterSpawnItem_MimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_GenerateElectricity",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_009N": {
+            "FieldName": "CharacterSpawnItem_MimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Handcraft",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_009O": {
+            "FieldName": "CharacterSpawnItem_MimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Collection",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_009P": {
+            "FieldName": "CharacterSpawnItem_MimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Deforest",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_009Q": {
+            "FieldName": "CharacterSpawnItem_MimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Mining",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_009R": {
+            "FieldName": "CharacterSpawnItem_MimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_ProductMedicine",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_009S": {
+            "FieldName": "CharacterSpawnItem_MimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Cool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_009T": {
+            "FieldName": "CharacterSpawnItem_MimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Transport",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_009U": {
+            "FieldName": "CharacterSpawnItem_MimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_MonsterFarm",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_010A": {
+            "FieldName": "CharacterSpawnItem_MimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "DogCoin",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 25,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_010B": {
+            "FieldName": "CharacterSpawnItem_MimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureMap01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_010C": {
+            "FieldName": "CharacterSpawnItem_MimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TechnologyBook_G1",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_010D": {
+            "FieldName": "CharacterSpawnItem_MimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_010E": {
+            "FieldName": "CharacterSpawnItem_MimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_010F": {
+            "FieldName": "CharacterSpawnItem_MimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey03",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_010G": {
+            "FieldName": "CharacterSpawnItem_MimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_010H": {
+            "FieldName": "CharacterSpawnItem_MimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_attack_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_010I": {
+            "FieldName": "CharacterSpawnItem_MimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit__defense_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_010J": {
+            "FieldName": "CharacterSpawnItem_MimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_EmitFlame",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_010K": {
+            "FieldName": "CharacterSpawnItem_MimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Watering",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_010L": {
+            "FieldName": "CharacterSpawnItem_MimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Seeding",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_010M": {
+            "FieldName": "CharacterSpawnItem_MimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_GenerateElectricity",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_010N": {
+            "FieldName": "CharacterSpawnItem_MimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Handcraft",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_010O": {
+            "FieldName": "CharacterSpawnItem_MimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Collection",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_010P": {
+            "FieldName": "CharacterSpawnItem_MimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Deforest",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_010Q": {
+            "FieldName": "CharacterSpawnItem_MimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Mining",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_010R": {
+            "FieldName": "CharacterSpawnItem_MimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_ProductMedicine",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_010S": {
+            "FieldName": "CharacterSpawnItem_MimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Cool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_010T": {
+            "FieldName": "CharacterSpawnItem_MimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Transport",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MimicDogRanch_010U": {
+            "FieldName": "CharacterSpawnItem_MimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_MonsterFarm",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "DogCoin",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_001B": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureMap01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_001C": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TechnologyBook_G1",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_001D": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_001E": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_001F": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey03",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_001G": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_001H": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_attack_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_001I": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit__defense_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_001J": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_EmitFlame",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_001K": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Watering",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_001L": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Seeding",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_001M": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_GenerateElectricity",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_001N": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Handcraft",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_001O": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Collection",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_001P": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Deforest",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_001Q": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Mining",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_001R": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_ProductMedicine",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_001S": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Cool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_001T": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Transport",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_001U": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_MonsterFarm",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "DogCoin",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_002B": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureMap01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_002C": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TechnologyBook_G1",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_002D": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_002E": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_002F": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey03",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_002G": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_002H": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_attack_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_002I": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit__defense_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_002J": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_EmitFlame",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_002K": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Watering",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_002L": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Seeding",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_002M": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_GenerateElectricity",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_002N": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Handcraft",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_002O": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Collection",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_002P": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Deforest",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_002Q": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Mining",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_002R": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_ProductMedicine",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_002S": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Cool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_002T": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Transport",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_002U": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_MonsterFarm",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "DogCoin",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_003B": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureMap01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_003C": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TechnologyBook_G1",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_003D": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_003E": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_003F": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey03",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_003G": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_003H": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_attack_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_003I": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit__defense_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_003J": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_EmitFlame",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_003K": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Watering",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_003L": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Seeding",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_003M": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_GenerateElectricity",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_003N": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Handcraft",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_003O": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Collection",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_003P": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Deforest",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_003Q": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Mining",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_003R": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_ProductMedicine",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_003S": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Cool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_003T": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Transport",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_003U": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_MonsterFarm",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "DogCoin",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_004B": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureMap01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_004C": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TechnologyBook_G1",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_004D": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_004E": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_004F": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey03",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_004G": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_004H": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_attack_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_004I": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit__defense_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_004J": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_EmitFlame",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_004K": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Watering",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_004L": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Seeding",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_004M": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_GenerateElectricity",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_004N": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Handcraft",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_004O": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Collection",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_004P": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Deforest",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_004Q": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Mining",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_004R": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_ProductMedicine",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_004S": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Cool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_004T": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Transport",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_004U": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_MonsterFarm",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "DogCoin",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureMap01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TechnologyBook_G1",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_005D": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_005E": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_005F": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey03",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_005G": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_005H": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_attack_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_005I": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit__defense_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_005J": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_EmitFlame",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_005K": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Watering",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_005L": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Seeding",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_005M": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_GenerateElectricity",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_005N": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Handcraft",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_005O": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Collection",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_005P": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Deforest",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_005Q": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Mining",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_005R": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_ProductMedicine",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_005S": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Cool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_005T": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Transport",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_005U": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_MonsterFarm",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "DogCoin",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureMap01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TechnologyBook_G1",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_006D": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_006E": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_006F": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey03",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_006G": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_006H": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_attack_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_006I": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit__defense_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_006J": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_EmitFlame",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_006K": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Watering",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_006L": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Seeding",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_006M": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_GenerateElectricity",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_006N": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Handcraft",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_006O": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Collection",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_006P": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Deforest",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_006Q": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Mining",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_006R": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_ProductMedicine",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_006S": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Cool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_006T": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Transport",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_006U": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_MonsterFarm",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "DogCoin",
+            "MinNum": 1,
+            "MaxNum": 7,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureMap01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TechnologyBook_G1",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_007D": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_007E": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_007F": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey03",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_007G": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_007H": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_attack_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_007I": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit__defense_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_007J": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_EmitFlame",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_007K": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Watering",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_007L": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Seeding",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_007M": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_GenerateElectricity",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_007N": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Handcraft",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_007O": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Collection",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_007P": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Deforest",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_007Q": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Mining",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_007R": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_ProductMedicine",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_007S": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Cool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_007T": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Transport",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_007U": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_MonsterFarm",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "DogCoin",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureMap01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TechnologyBook_G1",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_008D": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_008E": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_008F": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey03",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_008G": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_008H": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_attack_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_008I": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit__defense_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_008J": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_EmitFlame",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_008K": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Watering",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_008L": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Seeding",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_008M": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_GenerateElectricity",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_008N": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Handcraft",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_008O": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Collection",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_008P": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Deforest",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_008Q": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Mining",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_008R": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_ProductMedicine",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_008S": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Cool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_008T": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Transport",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_008U": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_MonsterFarm",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "DogCoin",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 10,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureMap01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TechnologyBook_G1",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_009D": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_009E": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_009F": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey03",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_009G": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_009H": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_attack_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_009I": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit__defense_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_009J": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_EmitFlame",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_009K": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Watering",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_009L": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Seeding",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_009M": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_GenerateElectricity",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_009N": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Handcraft",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_009O": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Collection",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_009P": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Deforest",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_009Q": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Mining",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_009R": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_ProductMedicine",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_009S": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Cool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_009T": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Transport",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_009U": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_MonsterFarm",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "DogCoin",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 25,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureMap01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TechnologyBook_G1",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_010D": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_010E": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_010F": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "TreasureBoxKey03",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_010G": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_010H": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit_attack_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_010I": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Fruit__defense_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_010J": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_EmitFlame",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_010K": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Watering",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_010L": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Seeding",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_010M": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_GenerateElectricity",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_010N": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Handcraft",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_010O": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Collection",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_010P": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Deforest",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_010Q": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Mining",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_010R": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_ProductMedicine",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_010S": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Cool",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_010T": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_Transport",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMimicDogRanch_010U": {
+            "FieldName": "CharacterSpawnItem_BMimicDog_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "WorkSuitability_AddTicket_MonsterFarm",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}
