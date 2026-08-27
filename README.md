@@ -10,5 +10,5 @@ All mods require PalSchema from:
 For PalSchema required ue4ss from:
  https://github.com/Okaetsu/RE-UE4SS/releases/tag/experimental-palworld
 
-I will include a index of mods here when i have time, this is still just a initial setup.
+
 Happy gaming o7
