@@ -1,0 +1,64 @@
+{
+    "DT_FieldLotteryNameDataTable": {
+        "CharacterSpawnItem_MimicDog_1": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_MimicDog_2": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_MimicDog_3": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_MimicDog_4": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_MimicDog_5": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_MimicDog_6": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_MimicDog_7": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_MimicDog_8": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_MimicDog_9": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_MimicDog_10": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_BMimicDog_1": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_BMimicDog_2": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_BMimicDog_3": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_BMimicDog_4": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_BMimicDog_5": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_BMimicDog_6": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_BMimicDog_7": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_BMimicDog_8": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_BMimicDog_9": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_BMimicDog_10": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        }
+    }
+}

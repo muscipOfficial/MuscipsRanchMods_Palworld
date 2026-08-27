@@ -1,0 +1,138 @@
+{
+	"BP_MimicDog_C": {
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_MimicDog_1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_MimicDog_2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_MimicDog_3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_MimicDog_4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_MimicDog_5"
+                    }
+                  },
+				  {
+                    "Key": 6,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_MimicDog_6"
+                    }
+                  },
+                  {
+                    "Key": 7,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_MimicDog_7"
+                    }
+                  },
+                  {
+                    "Key": 8,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_MimicDog_8"
+                    }
+                  },
+                  {
+                    "Key": 9,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_MimicDog_9"
+                    }
+                  },
+                  {
+                    "Key": 10,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_MimicDog_10"
+                    }
+                  }
+                ]
+            }
+        }
+    },
+	"BP_MimicDog_BOSS_C": {
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BMimicDog_1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BMimicDog_2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BMimicDog_3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BMimicDog_4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BMimicDog_5"
+                    }
+                  },
+				  {
+                    "Key": 6,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BMimicDog_6"
+                    }
+                  },
+                  {
+                    "Key": 7,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BMimicDog_7"
+                    }
+                  },
+                  {
+                    "Key": 8,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BMimicDog_8"
+                    }
+                  },
+                  {
+                    "Key": 9,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BMimicDog_9"
+                    }
+                  },
+                  {
+                    "Key": 10,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_BMimicDog_10"
+                    }
+                  }
+                ]
+            }
+        }
+    }
+}
