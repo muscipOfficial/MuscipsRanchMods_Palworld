@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_FeatherOstrich":"Sand Chicken"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_FeatherOstrich":"Take one step forward and forget your doubts.\r\nTake two steps forward and forget your worries.\r\nTake three steps forward and forget your fears.\r\nFace any enemy.\r\n\r\nLays <itemName id=|Egg| style=|Status_Keyword|/>'s when assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_FeatherOstrich":"Can be ridden.\r\nMovement Speed is increased by <Status_Up>{Passive1_EffectValue1}%</> while mounted <Status_Keyword>on sand</>.\r\n\r\nLays <itemName id=|Egg| style=|Status_Keyword|/>'s when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

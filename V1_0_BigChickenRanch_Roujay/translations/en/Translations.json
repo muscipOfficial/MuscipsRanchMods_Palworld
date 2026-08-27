@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_ThiefBird":"Chicken-Nester"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_ThiefBird":"A thief by nature, it snatches items when no one is looking.\r\nNo reason to be concerned when caught in the act.\r\nOnce it swiftly steals your eyes, you won’t be seeing anything anyway.\r\n\r\nLays <itemName id=|Egg| style=|Status_Keyword|/>'s when assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_ThiefBird":"Can be ridden as a flying mount. \r\n\r\nWhile in party, \r\nincreases player's and Pals' damage to enemies afflicted with <uiCommon id=|ADDITIONAL_EFFECT_Darkness| style=|Effect_Darkness|/> by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)\r\n\r\nLays <itemName id=|Egg| style=|Status_Keyword|/>'s when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

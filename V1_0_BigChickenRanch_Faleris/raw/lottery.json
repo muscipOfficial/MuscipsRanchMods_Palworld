@@ -1,0 +1,784 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "HorusRanch_001A": {
+            "FieldName": "CharacterSpawnItem_Horus_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_001B": {
+            "FieldName": "CharacterSpawnItem_Horus_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_002A": {
+            "FieldName": "CharacterSpawnItem_Horus_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_002B": {
+            "FieldName": "CharacterSpawnItem_Horus_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_003A": {
+            "FieldName": "CharacterSpawnItem_Horus_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_003B": {
+            "FieldName": "CharacterSpawnItem_Horus_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_004A": {
+            "FieldName": "CharacterSpawnItem_Horus_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_004B": {
+            "FieldName": "CharacterSpawnItem_Horus_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_005A": {
+            "FieldName": "CharacterSpawnItem_Horus_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.49,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_005B": {
+            "FieldName": "CharacterSpawnItem_Horus_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.49,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_005C": {
+            "FieldName": "CharacterSpawnItem_Horus_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_006A": {
+            "FieldName": "CharacterSpawnItem_Horus_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.48,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_006B": {
+            "FieldName": "CharacterSpawnItem_Horus_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.48,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_006C": {
+            "FieldName": "CharacterSpawnItem_Horus_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_007A": {
+            "FieldName": "CharacterSpawnItem_Horus_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.46,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_007B": {
+            "FieldName": "CharacterSpawnItem_Horus_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.46,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_007C": {
+            "FieldName": "CharacterSpawnItem_Horus_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.08,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_008A": {
+            "FieldName": "CharacterSpawnItem_Horus_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_008B": {
+            "FieldName": "CharacterSpawnItem_Horus_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_008C": {
+            "FieldName": "CharacterSpawnItem_Horus_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_009A": {
+            "FieldName": "CharacterSpawnItem_Horus_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_009B": {
+            "FieldName": "CharacterSpawnItem_Horus_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_009C": {
+            "FieldName": "CharacterSpawnItem_Horus_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_010A": {
+            "FieldName": "CharacterSpawnItem_Horus_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_010B": {
+            "FieldName": "CharacterSpawnItem_Horus_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "HorusRanch_010C": {
+            "FieldName": "CharacterSpawnItem_Horus_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BHorus_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_001B": {
+            "FieldName": "CharacterSpawnItem_BHorus_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BHorus_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_002B": {
+            "FieldName": "CharacterSpawnItem_BHorus_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BHorus_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_003B": {
+            "FieldName": "CharacterSpawnItem_BHorus_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BHorus_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_004B": {
+            "FieldName": "CharacterSpawnItem_BHorus_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BHorus_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.49,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BHorus_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.49,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BHorus_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BHorus_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.48,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BHorus_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.48,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BHorus_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BHorus_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.46,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BHorus_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.46,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BHorus_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.08,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BHorus_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BHorus_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BHorus_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BHorus_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BHorus_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BHorus_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BHorus_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BHorus_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BHorusRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BHorus_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_001A": {
+            "FieldName": "CharacterSpawnItem_GHorus_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_001B": {
+            "FieldName": "CharacterSpawnItem_GHorus_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_002A": {
+            "FieldName": "CharacterSpawnItem_GHorus_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_002B": {
+            "FieldName": "CharacterSpawnItem_GHorus_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_003A": {
+            "FieldName": "CharacterSpawnItem_GHorus_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_003B": {
+            "FieldName": "CharacterSpawnItem_GHorus_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_004A": {
+            "FieldName": "CharacterSpawnItem_GHorus_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_004B": {
+            "FieldName": "CharacterSpawnItem_GHorus_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_005A": {
+            "FieldName": "CharacterSpawnItem_GHorus_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.49,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_005B": {
+            "FieldName": "CharacterSpawnItem_GHorus_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.49,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_005C": {
+            "FieldName": "CharacterSpawnItem_GHorus_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_006A": {
+            "FieldName": "CharacterSpawnItem_GHorus_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.48,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_006B": {
+            "FieldName": "CharacterSpawnItem_GHorus_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.48,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_006C": {
+            "FieldName": "CharacterSpawnItem_GHorus_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_007A": {
+            "FieldName": "CharacterSpawnItem_GHorus_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.46,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_007B": {
+            "FieldName": "CharacterSpawnItem_GHorus_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.46,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_007C": {
+            "FieldName": "CharacterSpawnItem_GHorus_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.08,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_008A": {
+            "FieldName": "CharacterSpawnItem_GHorus_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_008B": {
+            "FieldName": "CharacterSpawnItem_GHorus_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_008C": {
+            "FieldName": "CharacterSpawnItem_GHorus_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_009A": {
+            "FieldName": "CharacterSpawnItem_GHorus_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_009B": {
+            "FieldName": "CharacterSpawnItem_GHorus_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_009C": {
+            "FieldName": "CharacterSpawnItem_GHorus_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_010A": {
+            "FieldName": "CharacterSpawnItem_GHorus_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_010B": {
+            "FieldName": "CharacterSpawnItem_GHorus_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "GHorusRanch_010C": {
+            "FieldName": "CharacterSpawnItem_GHorus_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}

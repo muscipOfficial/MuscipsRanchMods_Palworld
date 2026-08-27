@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_HawkBird":"Chicken Companion"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_HawkBird":"It carries newborn Pals to its nest and raises them \r\nas a surrogate parent. \r\nOnce the baby Pal has fattened up, it hunts them.\r\n\r\nLays <itemName id=|Egg| style=|Status_Keyword|/>'s when assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_HawkBird":"Can be ridden as a flying mount.\r\n{ReferenceMsgId_RideSpeedUp}\r\n\r\nLays <itemName id=|Egg| style=|Status_Keyword|/>'s when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

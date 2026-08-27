@@ -1,0 +1,444 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "BirdDragon_IceRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BirdDragon_Ice_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BirdDragon_IceRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BirdDragon_Ice_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BirdDragon_IceRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BirdDragon_Ice_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BirdDragon_IceRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BirdDragon_Ice_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BirdDragon_IceRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BirdDragon_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BirdDragon_IceRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BirdDragon_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "IceOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BirdDragon_IceRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BirdDragon_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BirdDragon_IceRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BirdDragon_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BirdDragon_IceRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BirdDragon_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "IceOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BirdDragon_IceRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BirdDragon_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BirdDragon_IceRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BirdDragon_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BirdDragon_IceRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BirdDragon_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "IceOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BirdDragon_IceRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BirdDragon_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BirdDragon_IceRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BirdDragon_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BirdDragon_IceRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BirdDragon_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "IceOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BirdDragon_IceRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BirdDragon_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BirdDragon_IceRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BirdDragon_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BirdDragon_IceRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BirdDragon_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "IceOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BirdDragon_IceRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BirdDragon_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BirdDragon_IceRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BirdDragon_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BirdDragon_IceRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BirdDragon_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "IceOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BirdDragon_IceRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BirdDragon_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBirdDragon_IceRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BBirdDragon_Ice_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBirdDragon_IceRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BBirdDragon_Ice_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBirdDragon_IceRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BBirdDragon_Ice_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBirdDragon_IceRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BBirdDragon_Ice_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBirdDragon_IceRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BBirdDragon_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBirdDragon_IceRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BBirdDragon_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "IceOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBirdDragon_IceRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BBirdDragon_Ice_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBirdDragon_IceRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BBirdDragon_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBirdDragon_IceRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BBirdDragon_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "IceOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBirdDragon_IceRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BBirdDragon_Ice_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBirdDragon_IceRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BBirdDragon_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBirdDragon_IceRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BBirdDragon_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "IceOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBirdDragon_IceRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BBirdDragon_Ice_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBirdDragon_IceRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BBirdDragon_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBirdDragon_IceRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BBirdDragon_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "IceOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBirdDragon_IceRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BBirdDragon_Ice_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBirdDragon_IceRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BBirdDragon_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBirdDragon_IceRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BBirdDragon_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "IceOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBirdDragon_IceRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BBirdDragon_Ice_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBirdDragon_IceRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BBirdDragon_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBirdDragon_IceRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BBirdDragon_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "IceOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBirdDragon_IceRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BBirdDragon_Ice_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}

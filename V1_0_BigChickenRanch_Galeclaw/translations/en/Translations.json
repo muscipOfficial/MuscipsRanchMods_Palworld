@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_Eagle":"Chicken Glider"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_Eagle":"A Pal that can easily take flight even while grasping a human. \r\nIt is, however, prone to letting go when tired, \r\nwhich has led to the sudden demise of more than a few souls.\r\n\r\nLays <itemName id=|Egg| style=|Status_Keyword|/>'s when assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_Eagle":"While in party, \r\nmodifies the performance of the equipped glider.\r\n\r\nEnables high-speed gliding and allows shooting with the right hand.\r\n{ReferenceMsgId_GriderPerformanceUp}\r\n\r\nLays <itemName id=|Egg| style=|Status_Keyword|/>'s when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_BirdDragon_Ice":"Chicken Marauder"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_BirdDragon_Ice":"The melodies of a flute made from the exoskeleton of a <characterName id=|BirdDragon_Ice|/> \r\nare said to cross whole mountain ranges.\r\nIn ages past, such flutes were used to signal victory in battle.\r\n\r\nLays <itemName id=|Egg| style=|Status_Keyword|/>'s when assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_BirdDragon_Ice":"Can be ridden as a flying mount.\r\n\r\nWhile in party, \r\nincreases damage player deals to enemy weak points by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)\r\n\r\nLays <itemName id=|Egg| style=|Status_Keyword|/>'s when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

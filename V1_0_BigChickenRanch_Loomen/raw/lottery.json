@@ -1,0 +1,444 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "LanternButlerRanch_001A": {
+            "FieldName": "CharacterSpawnItem_LanternButler_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "LanternButlerRanch_002A": {
+            "FieldName": "CharacterSpawnItem_LanternButler_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "LanternButlerRanch_003A": {
+            "FieldName": "CharacterSpawnItem_LanternButler_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "LanternButlerRanch_004A": {
+            "FieldName": "CharacterSpawnItem_LanternButler_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "LanternButlerRanch_005A": {
+            "FieldName": "CharacterSpawnItem_LanternButler_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "LanternButlerRanch_005B": {
+            "FieldName": "CharacterSpawnItem_LanternButler_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalItem_ToSell_04",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "LanternButlerRanch_005C": {
+            "FieldName": "CharacterSpawnItem_LanternButler_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "LanternButlerRanch_006A": {
+            "FieldName": "CharacterSpawnItem_LanternButler_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "LanternButlerRanch_006B": {
+            "FieldName": "CharacterSpawnItem_LanternButler_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalItem_ToSell_04",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "LanternButlerRanch_006C": {
+            "FieldName": "CharacterSpawnItem_LanternButler_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "LanternButlerRanch_007A": {
+            "FieldName": "CharacterSpawnItem_LanternButler_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "LanternButlerRanch_007B": {
+            "FieldName": "CharacterSpawnItem_LanternButler_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalItem_ToSell_04",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "LanternButlerRanch_007C": {
+            "FieldName": "CharacterSpawnItem_LanternButler_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "LanternButlerRanch_008A": {
+            "FieldName": "CharacterSpawnItem_LanternButler_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "LanternButlerRanch_008B": {
+            "FieldName": "CharacterSpawnItem_LanternButler_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalItem_ToSell_04",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "LanternButlerRanch_008C": {
+            "FieldName": "CharacterSpawnItem_LanternButler_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "LanternButlerRanch_009A": {
+            "FieldName": "CharacterSpawnItem_LanternButler_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "LanternButlerRanch_009B": {
+            "FieldName": "CharacterSpawnItem_LanternButler_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalItem_ToSell_04",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "LanternButlerRanch_009C": {
+            "FieldName": "CharacterSpawnItem_LanternButler_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "LanternButlerRanch_010A": {
+            "FieldName": "CharacterSpawnItem_LanternButler_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "LanternButlerRanch_010B": {
+            "FieldName": "CharacterSpawnItem_LanternButler_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalItem_ToSell_04",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "LanternButlerRanch_010C": {
+            "FieldName": "CharacterSpawnItem_LanternButler_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BLanternButlerRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BLanternButler_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BLanternButlerRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BLanternButler_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BLanternButlerRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BLanternButler_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BLanternButlerRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BLanternButler_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BLanternButlerRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BLanternButler_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BLanternButlerRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BLanternButler_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalItem_ToSell_04",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BLanternButlerRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BLanternButler_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BLanternButlerRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BLanternButler_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BLanternButlerRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BLanternButler_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalItem_ToSell_04",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BLanternButlerRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BLanternButler_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BLanternButlerRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BLanternButler_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BLanternButlerRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BLanternButler_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalItem_ToSell_04",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BLanternButlerRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BLanternButler_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BLanternButlerRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BLanternButler_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BLanternButlerRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BLanternButler_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalItem_ToSell_04",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BLanternButlerRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BLanternButler_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BLanternButlerRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BLanternButler_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BLanternButlerRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BLanternButler_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalItem_ToSell_04",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BLanternButlerRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BLanternButler_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BLanternButlerRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BLanternButler_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BLanternButlerRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BLanternButler_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalItem_ToSell_04",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BLanternButlerRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BLanternButler_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}

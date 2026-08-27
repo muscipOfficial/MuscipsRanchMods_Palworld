@@ -1,0 +1,444 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "ThunderBirdRanch_001A": {
+            "FieldName": "CharacterSpawnItem_ThunderBird_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderBirdRanch_002A": {
+            "FieldName": "CharacterSpawnItem_ThunderBird_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderBirdRanch_003A": {
+            "FieldName": "CharacterSpawnItem_ThunderBird_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderBirdRanch_004A": {
+            "FieldName": "CharacterSpawnItem_ThunderBird_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderBirdRanch_005A": {
+            "FieldName": "CharacterSpawnItem_ThunderBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderBirdRanch_005B": {
+            "FieldName": "CharacterSpawnItem_ThunderBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "ElectricOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderBirdRanch_005C": {
+            "FieldName": "CharacterSpawnItem_ThunderBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderBirdRanch_006A": {
+            "FieldName": "CharacterSpawnItem_ThunderBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderBirdRanch_006B": {
+            "FieldName": "CharacterSpawnItem_ThunderBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "ElectricOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderBirdRanch_006C": {
+            "FieldName": "CharacterSpawnItem_ThunderBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderBirdRanch_007A": {
+            "FieldName": "CharacterSpawnItem_ThunderBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderBirdRanch_007B": {
+            "FieldName": "CharacterSpawnItem_ThunderBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "ElectricOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderBirdRanch_007C": {
+            "FieldName": "CharacterSpawnItem_ThunderBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderBirdRanch_008A": {
+            "FieldName": "CharacterSpawnItem_ThunderBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderBirdRanch_008B": {
+            "FieldName": "CharacterSpawnItem_ThunderBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "ElectricOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderBirdRanch_008C": {
+            "FieldName": "CharacterSpawnItem_ThunderBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderBirdRanch_009A": {
+            "FieldName": "CharacterSpawnItem_ThunderBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderBirdRanch_009B": {
+            "FieldName": "CharacterSpawnItem_ThunderBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "ElectricOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderBirdRanch_009C": {
+            "FieldName": "CharacterSpawnItem_ThunderBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderBirdRanch_010A": {
+            "FieldName": "CharacterSpawnItem_ThunderBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderBirdRanch_010B": {
+            "FieldName": "CharacterSpawnItem_ThunderBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "ElectricOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "ThunderBirdRanch_010C": {
+            "FieldName": "CharacterSpawnItem_ThunderBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderBirdRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BThunderBird_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderBirdRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BThunderBird_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderBirdRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BThunderBird_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderBirdRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BThunderBird_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderBirdRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BThunderBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderBirdRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BThunderBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "ElectricOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderBirdRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BThunderBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderBirdRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BThunderBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderBirdRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BThunderBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "ElectricOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderBirdRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BThunderBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderBirdRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BThunderBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderBirdRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BThunderBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "ElectricOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderBirdRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BThunderBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderBirdRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BThunderBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderBirdRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BThunderBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "ElectricOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderBirdRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BThunderBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderBirdRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BThunderBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderBirdRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BThunderBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "ElectricOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderBirdRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BThunderBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderBirdRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BThunderBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderBirdRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BThunderBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "ElectricOrgan",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BThunderBirdRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BThunderBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "PalItem_ToSell_02",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}

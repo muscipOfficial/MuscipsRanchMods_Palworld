@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_LanternButler":"Lantern Chicken"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_LanternButler":"Its lantern glows with an eerie light that lays bare the truth of the world.\r\nIf that light strikes you as blinding, then you most likely have something to hide.\r\n\r\nLays <itemName id=|Egg| style=|Status_Keyword|/>'s when assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_LanternButler":"While in party, \r\nthe player's arrows <Status_Keyword>explode on contact</>, dealing additional damage equal to <Status_Up>{Passive1_EffectValue1}%</> of the player's attack damage. \r\n(Does not stack)\r\n\r\nLays <itemName id=|Egg| style=|Status_Keyword|/>'s when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

@@ -1,0 +1,664 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "RedFlowerBirdRanch_001A": {
+            "FieldName": "CharacterSpawnItem_RedFlowerBird_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedFlowerBirdRanch_002A": {
+            "FieldName": "CharacterSpawnItem_RedFlowerBird_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedFlowerBirdRanch_003A": {
+            "FieldName": "CharacterSpawnItem_RedFlowerBird_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedFlowerBirdRanch_004A": {
+            "FieldName": "CharacterSpawnItem_RedFlowerBird_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedFlowerBirdRanch_005A": {
+            "FieldName": "CharacterSpawnItem_RedFlowerBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedFlowerBirdRanch_005B": {
+            "FieldName": "CharacterSpawnItem_RedFlowerBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Salad",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedFlowerBirdRanch_005C": {
+            "FieldName": "CharacterSpawnItem_RedFlowerBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Poppy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedFlowerBirdRanch_006A": {
+            "FieldName": "CharacterSpawnItem_RedFlowerBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedFlowerBirdRanch_006B": {
+            "FieldName": "CharacterSpawnItem_RedFlowerBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "Salad",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedFlowerBirdRanch_006C": {
+            "FieldName": "CharacterSpawnItem_RedFlowerBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "Poppy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedFlowerBirdRanch_007A": {
+            "FieldName": "CharacterSpawnItem_RedFlowerBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedFlowerBirdRanch_007B": {
+            "FieldName": "CharacterSpawnItem_RedFlowerBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "Salad",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedFlowerBirdRanch_007C": {
+            "FieldName": "CharacterSpawnItem_RedFlowerBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "Poppy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedFlowerBirdRanch_008A": {
+            "FieldName": "CharacterSpawnItem_RedFlowerBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedFlowerBirdRanch_008B": {
+            "FieldName": "CharacterSpawnItem_RedFlowerBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Salad",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedFlowerBirdRanch_008C": {
+            "FieldName": "CharacterSpawnItem_RedFlowerBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Poppy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedFlowerBirdRanch_009A": {
+            "FieldName": "CharacterSpawnItem_RedFlowerBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedFlowerBirdRanch_009B": {
+            "FieldName": "CharacterSpawnItem_RedFlowerBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Salad",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedFlowerBirdRanch_009C": {
+            "FieldName": "CharacterSpawnItem_RedFlowerBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Poppy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedFlowerBirdRanch_010A": {
+            "FieldName": "CharacterSpawnItem_RedFlowerBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedFlowerBirdRanch_010B": {
+            "FieldName": "CharacterSpawnItem_RedFlowerBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Salad",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedFlowerBirdRanch_010C": {
+            "FieldName": "CharacterSpawnItem_RedFlowerBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Poppy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedFlowerBirdRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BRedFlowerBird_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedFlowerBirdRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BRedFlowerBird_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedFlowerBirdRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BRedFlowerBird_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedFlowerBirdRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BRedFlowerBird_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedFlowerBirdRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BRedFlowerBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedFlowerBirdRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BRedFlowerBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Salad",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedFlowerBirdRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BRedFlowerBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Poppy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedFlowerBirdRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BRedFlowerBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedFlowerBirdRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BRedFlowerBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "Salad",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedFlowerBirdRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BRedFlowerBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "Poppy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedFlowerBirdRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BRedFlowerBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedFlowerBirdRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BRedFlowerBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "Salad",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedFlowerBirdRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BRedFlowerBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "Poppy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedFlowerBirdRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BRedFlowerBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedFlowerBirdRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BRedFlowerBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Salad",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedFlowerBirdRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BRedFlowerBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Poppy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedFlowerBirdRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BRedFlowerBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedFlowerBirdRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BRedFlowerBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Salad",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedFlowerBirdRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BRedFlowerBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Poppy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedFlowerBirdRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BRedFlowerBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedFlowerBirdRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BRedFlowerBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Salad",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedFlowerBirdRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BRedFlowerBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Poppy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedFlowerBirdRanch_001A": {
+            "FieldName": "CharacterSpawnItem_PRedFlowerBird_1",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedFlowerBirdRanch_002A": {
+            "FieldName": "CharacterSpawnItem_PRedFlowerBird_2",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedFlowerBirdRanch_003A": {
+            "FieldName": "CharacterSpawnItem_PRedFlowerBird_3",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedFlowerBirdRanch_004A": {
+            "FieldName": "CharacterSpawnItem_PRedFlowerBird_4",
+            "SlotNo": 1,
+            "WeightInSlot": 1.00,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedFlowerBirdRanch_005A": {
+            "FieldName": "CharacterSpawnItem_PRedFlowerBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.98,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedFlowerBirdRanch_005B": {
+            "FieldName": "CharacterSpawnItem_PRedFlowerBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Salad",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedFlowerBirdRanch_005C": {
+            "FieldName": "CharacterSpawnItem_PRedFlowerBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Poppy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedFlowerBirdRanch_006A": {
+            "FieldName": "CharacterSpawnItem_PRedFlowerBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.96,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedFlowerBirdRanch_006B": {
+            "FieldName": "CharacterSpawnItem_PRedFlowerBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "Salad",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedFlowerBirdRanch_006C": {
+            "FieldName": "CharacterSpawnItem_PRedFlowerBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "Poppy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedFlowerBirdRanch_007A": {
+            "FieldName": "CharacterSpawnItem_PRedFlowerBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.92,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedFlowerBirdRanch_007B": {
+            "FieldName": "CharacterSpawnItem_PRedFlowerBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "Salad",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedFlowerBirdRanch_007C": {
+            "FieldName": "CharacterSpawnItem_PRedFlowerBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "Poppy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedFlowerBirdRanch_008A": {
+            "FieldName": "CharacterSpawnItem_PRedFlowerBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.90,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 4,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedFlowerBirdRanch_008B": {
+            "FieldName": "CharacterSpawnItem_PRedFlowerBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Salad",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedFlowerBirdRanch_008C": {
+            "FieldName": "CharacterSpawnItem_PRedFlowerBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Poppy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedFlowerBirdRanch_009A": {
+            "FieldName": "CharacterSpawnItem_PRedFlowerBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedFlowerBirdRanch_009B": {
+            "FieldName": "CharacterSpawnItem_PRedFlowerBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Salad",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedFlowerBirdRanch_009C": {
+            "FieldName": "CharacterSpawnItem_PRedFlowerBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Poppy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedFlowerBirdRanch_010A": {
+            "FieldName": "CharacterSpawnItem_PRedFlowerBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedFlowerBirdRanch_010B": {
+            "FieldName": "CharacterSpawnItem_PRedFlowerBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Salad",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedFlowerBirdRanch_010C": {
+            "FieldName": "CharacterSpawnItem_PRedFlowerBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Poppy",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}

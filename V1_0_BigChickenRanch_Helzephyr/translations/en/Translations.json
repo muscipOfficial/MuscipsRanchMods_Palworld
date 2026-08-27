@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_HadesBird":"Chicken of Death"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_HadesBird":"It calls forth lightning from the depths of hell.\r\nThose who dies from <characterName id=|HadesBird|/>'s lightning\r\nare sure to have their soul sent to the underworld.\r\n\r\nLays <itemName id=|Egg| style=|Status_Keyword|/>'s when assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_HadesBird":"Can be ridden as a flying mount.\r\n\r\nWhile mounted, \r\nchanges the player’s attack type to <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> and increases Attack by <Status_Up>{Passive2_EffectValue1}%</>.\r\n\r\nLays <itemName id=|Egg| style=|Status_Keyword|/>'s when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

@@ -1,0 +1,784 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "RedArmorBirdRanch_001A": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_001B": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_002A": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_002B": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_003A": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_003B": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_004A": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_004B": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_005A": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.49,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_005B": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.49,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_005C": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_006A": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.48,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_006B": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.48,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_006C": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_007A": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.46,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_007B": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.46,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_007C": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.08,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_008A": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_008B": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_008C": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_009A": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_009B": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_009C": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_010A": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_010B": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "RedArmorBirdRanch_010C": {
+            "FieldName": "CharacterSpawnItem_RedArmorBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_001B": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_002B": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_003B": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_004B": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.49,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.49,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.48,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.48,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.46,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.46,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.08,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BRedArmorBirdRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BRedArmorBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_001A": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_001B": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_002A": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_002B": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_003A": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_003B": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_004A": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_004B": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.50,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_005A": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.49,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_005B": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.49,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_005C": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.02,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_006A": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.48,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_006B": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.48,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_006C": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.04,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_007A": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.46,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_007B": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.46,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_007C": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.08,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_008A": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_008B": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_008C": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_009A": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_009B": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_009C": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_010A": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "Egg",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_010B": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "FriedEggs",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "PRedArmorBirdRanch_010C": {
+            "FieldName": "CharacterSpawnItem_PRedArmorBird_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Omelet",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}
