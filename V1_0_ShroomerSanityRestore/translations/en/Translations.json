@@ -1,0 +1,5 @@
+{
+    	"DT_PalFirstActivatedInfoText":{
+        "PAL_FIRST_SPAWN_DESC_MushroomDragon":"Can be ridden.\r\n\r\nWhile at a base, \r\nits mysterious spores slow the rate at which the SAN value of allies at the base decreases by <Status_Up>{Passive1_EffectValue2}%</>.\r\n\r\nSometimes drops <itemName id=|Mushroom| style=|Status_Keyword|/> or <itemName id=|CaveMushroom| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

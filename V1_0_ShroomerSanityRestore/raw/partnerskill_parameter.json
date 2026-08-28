@@ -1,0 +1,218 @@
+{
+"DT_PartnerSkillParameter": {
+ "MushroomDragon":{
+        "PassiveSkills": [
+          {
+            "SkillAndParametersArray": [
+              {
+                "SkillName": {
+                  "Key": "BaseCampPal_SAN_Down_1"
+                },
+                "Parameters": {
+                  "DelayTime": 0.0,
+                  "WorkType": "EPalWorkType::None",
+                  "bAssignPassiveIgnoreCurrentWorkType": false,
+                  "MapObjectId": [],
+                  "ItemId": [],
+                  "AssignOthers": false,
+                  "TargetElementType": "EPalElementType::None",
+                  "PalTribeIds": [],
+                  "bNotAssignSelf": false,
+                  "TriggerParam": {
+                    "TargetTribeIds": []
+                  },
+                  "ItemParam": {
+                    "ItemTypeA": "EPalItemTypeA::None",
+                    "ItemTypeB": "EPalItemTypeB::None",
+                    "ItemIds": [],
+                    "ExcludedItemIds": [],
+                    "bIsContainNoItemId": false,
+                    "WeaponType": "EPalWeaponType::None",
+                    "WeaponTypes": [],
+                    "bMeleeOnly": false
+                  },
+                  "RegeneParam": {
+                    "Interval": 0
+                  },
+                  "OtherOtomoConditionParam": {
+                    "TargetElementType": "EPalElementType::None",
+                    "TargetElementTypes": [],
+                    "PalTribeIds": []
+                  },
+                  "FloatValue1": 0.0
+                }
+              }
+            ]
+          },
+          {
+            "SkillAndParametersArray": [
+              {
+                "SkillName": {
+                  "Key": "BaseCampPal_SAN_Down_2"
+                },
+                "Parameters": {
+                  "DelayTime": 0.0,
+                  "WorkType": "EPalWorkType::None",
+                  "bAssignPassiveIgnoreCurrentWorkType": false,
+                  "MapObjectId": [],
+                  "ItemId": [],
+                  "AssignOthers": false,
+                  "TargetElementType": "EPalElementType::None",
+                  "PalTribeIds": [],
+                  "bNotAssignSelf": false,
+                  "TriggerParam": {
+                    "TargetTribeIds": []
+                  },
+                  "ItemParam": {
+                    "ItemTypeA": "EPalItemTypeA::None",
+                    "ItemTypeB": "EPalItemTypeB::None",
+                    "ItemIds": [],
+                    "ExcludedItemIds": [],
+                    "bIsContainNoItemId": false,
+                    "WeaponType": "EPalWeaponType::None",
+                    "WeaponTypes": [],
+                    "bMeleeOnly": false
+                  },
+                  "RegeneParam": {
+                    "Interval": 0
+                  },
+                  "OtherOtomoConditionParam": {
+                    "TargetElementType": "EPalElementType::None",
+                    "TargetElementTypes": [],
+                    "PalTribeIds": []
+                  },
+                  "FloatValue1": 0.0
+                }
+              }
+            ]
+          },
+          {
+            "SkillAndParametersArray": [
+              {
+                "SkillName": {
+                  "Key": "BaseCampPal_SAN_Down_3"
+                },
+                "Parameters": {
+                  "DelayTime": 0.0,
+                  "WorkType": "EPalWorkType::None",
+                  "bAssignPassiveIgnoreCurrentWorkType": false,
+                  "MapObjectId": [],
+                  "ItemId": [],
+                  "AssignOthers": false,
+                  "TargetElementType": "EPalElementType::None",
+                  "PalTribeIds": [],
+                  "bNotAssignSelf": false,
+                  "TriggerParam": {
+                    "TargetTribeIds": []
+                  },
+                  "ItemParam": {
+                    "ItemTypeA": "EPalItemTypeA::None",
+                    "ItemTypeB": "EPalItemTypeB::None",
+                    "ItemIds": [],
+                    "ExcludedItemIds": [],
+                    "bIsContainNoItemId": false,
+                    "WeaponType": "EPalWeaponType::None",
+                    "WeaponTypes": [],
+                    "bMeleeOnly": false
+                  },
+                  "RegeneParam": {
+                    "Interval": 0
+                  },
+                  "OtherOtomoConditionParam": {
+                    "TargetElementType": "EPalElementType::None",
+                    "TargetElementTypes": [],
+                    "PalTribeIds": []
+                  },
+                  "FloatValue1": 0.0
+                }
+              }
+            ]
+          },
+          {
+            "SkillAndParametersArray": [
+              {
+                "SkillName": {
+                  "Key": "BaseCampPal_SAN_Down_4"
+                },
+                "Parameters": {
+                  "DelayTime": 0.0,
+                  "WorkType": "EPalWorkType::None",
+                  "bAssignPassiveIgnoreCurrentWorkType": false,
+                  "MapObjectId": [],
+                  "ItemId": [],
+                  "AssignOthers": false,
+                  "TargetElementType": "EPalElementType::None",
+                  "PalTribeIds": [],
+                  "bNotAssignSelf": false,
+                  "TriggerParam": {
+                    "TargetTribeIds": []
+                  },
+                  "ItemParam": {
+                    "ItemTypeA": "EPalItemTypeA::None",
+                    "ItemTypeB": "EPalItemTypeB::None",
+                    "ItemIds": [],
+                    "ExcludedItemIds": [],
+                    "bIsContainNoItemId": false,
+                    "WeaponType": "EPalWeaponType::None",
+                    "WeaponTypes": [],
+                    "bMeleeOnly": false
+                  },
+                  "RegeneParam": {
+                    "Interval": 0
+                  },
+                  "OtherOtomoConditionParam": {
+                    "TargetElementType": "EPalElementType::None",
+                    "TargetElementTypes": [],
+                    "PalTribeIds": []
+                  },
+                  "FloatValue1": 0.0
+                }
+              }
+            ]
+          },
+          {
+            "SkillAndParametersArray": [
+              {
+                "SkillName": {
+                  "Key": "BaseCampPal_SAN_Down_5"
+                },
+                "Parameters": {
+                  "DelayTime": 0.0,
+                  "WorkType": "EPalWorkType::None",
+                  "bAssignPassiveIgnoreCurrentWorkType": false,
+                  "MapObjectId": [],
+                  "ItemId": [],
+                  "AssignOthers": false,
+                  "TargetElementType": "EPalElementType::None",
+                  "PalTribeIds": [],
+                  "bNotAssignSelf": false,
+                  "TriggerParam": {
+                    "TargetTribeIds": []
+                  },
+                  "ItemParam": {
+                    "ItemTypeA": "EPalItemTypeA::None",
+                    "ItemTypeB": "EPalItemTypeB::None",
+                    "ItemIds": [],
+                    "ExcludedItemIds": [],
+                    "bIsContainNoItemId": false,
+                    "WeaponType": "EPalWeaponType::None",
+                    "WeaponTypes": [],
+                    "bMeleeOnly": false
+                  },
+                  "RegeneParam": {
+                    "Interval": 0
+                  },
+                  "OtherOtomoConditionParam": {
+                    "TargetElementType": "EPalElementType::None",
+                    "TargetElementTypes": [],
+                    "PalTribeIds": []
+                  },
+                  "FloatValue1": 0.0
+                }
+              }
+            ]
+          }
+        ]
+}
+}
+}
