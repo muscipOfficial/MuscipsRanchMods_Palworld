@@ -6,6 +6,6 @@
 	"PAL_LONG_DESC_NightBlueHorse_Neutral":"It takes great pride in its glowing, gorgeous mane.\r\nIf it gets even slightly dirty, it becomes so mortified \r\nit can't focus on running properly. \r\nBecause skin oils ruin its coat, it wants to avoid being touched too much,\r\neven by its favorite Pal Tamer.\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>."
 	},
     	"DT_PalFirstActivatedInfoText":{
-	"PAL_LONG_DESC_NightBlueHorse_Neutral":"Can be ridden. \r\nBoosts Jump Power while mounted. \r\n\r\nThis Pal’s Movement Speed increases by <Status_Up>{Passive1_EffectValue1}%</> for each other <img id=|ElemIcon_Neutral|/><uiCommon id=|COMMON_ELEMENT_NAME_Normal| style=|Elem_Neutral|/> Pal in your party. (Excluding <characterName id=|NightBlueHorse_Neutral|/>)\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>."
+	"PAL_FIRST_SPAWN_DESC_NightBlueHorse_Neutral":"Can be ridden. \r\nBoosts Jump Power while mounted. \r\n\r\nThis Pal’s Movement Speed increases by <Status_Up>{Passive1_EffectValue1}%</> for each other <img id=|ElemIcon_Neutral|/><uiCommon id=|COMMON_ELEMENT_NAME_Normal| style=|Elem_Neutral|/> Pal in your party. (Excluding <characterName id=|NightBlueHorse_Neutral|/>)\r\n\r\nSometimes drops Feybreak materials when assigned to <mapObjectName id=|MonsterFarm|/>."
 	}
 }
