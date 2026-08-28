@@ -1,0 +1,64 @@
+{
+    "DT_FieldLotteryNameDataTable": {
+        "CharacterSpawnItem_MushroomDragon_Dark_1": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_MushroomDragon_Dark_2": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_MushroomDragon_Dark_3": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_MushroomDragon_Dark_4": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_MushroomDragon_Dark_5": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_MushroomDragon_Dark_6": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_MushroomDragon_Dark_7": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_MushroomDragon_Dark_8": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_MushroomDragon_Dark_9": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_MushroomDragon_Dark_10": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_BMushroomDragon_Dark_1": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_BMushroomDragon_Dark_2": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_BMushroomDragon_Dark_3": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_BMushroomDragon_Dark_4": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_BMushroomDragon_Dark_5": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_BMushroomDragon_Dark_6": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_BMushroomDragon_Dark_7": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_BMushroomDragon_Dark_8": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_BMushroomDragon_Dark_9": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_BMushroomDragon_Dark_10": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        }
+    }
+}

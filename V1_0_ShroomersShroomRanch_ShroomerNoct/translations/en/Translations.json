@@ -1,0 +1,11 @@
+{
+	"DT_SkillNameText":{
+	"PARTNERSKILL_MushroomDragon_Dark":"Roiling Spore Rancher"
+	},
+	"DT_PalLongDescriptionText":{
+	"PAL_LONG_DESC_MushroomDragon_Dark":"The abundance of spores released by this Pal blocks out sunlight.\r\nSometimes, if <characterName id=|MushroomDragon_Dark|/> appears motionless,\r\nit's not because it's mimicking a mushroom,\r\nbut rather because its own spores don't let it see anything.\r\n\r\nSometimes drops <itemName id=|PoisonMushroom| style=|Status_Keyword|/> or <itemName id=|CaveMushroom| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>."
+	},
+    	"DT_PalFirstActivatedInfoText":{
+	"PAL_FIRST_SPAWN_DESC_MushroomDragon_Dark":"Can be ridden.\r\n\r\nWhile at a base, \r\nits mysterious spores slow the rate at which the SAN value of allies at the base decreases by <Status_Up>{Passive1_EffectValue2}%</>.\r\n\r\nSometimes drops <itemName id=|PoisonMushroom| style=|Status_Keyword|/> or <itemName id=|CaveMushroom| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>."
+	}
+}

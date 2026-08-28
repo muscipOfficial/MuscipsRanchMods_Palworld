@@ -1,0 +1,564 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "MushroomDragon_DarkRanch_001A": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "CaveMushroom",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_001B": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.20,
+            "StaticItemId": "PoisonMushroom",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_002A": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "CaveMushroom",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_002B": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.20,
+            "StaticItemId": "PoisonMushroom",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Lotus_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_003B": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.79,
+            "StaticItemId": "CaveMushroom",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_003C": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.20,
+            "StaticItemId": "PoisonMushroom",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Lotus_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_004B": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.75,
+            "StaticItemId": "CaveMushroom",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_004C": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.20,
+            "StaticItemId": "PoisonMushroom",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_005A": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Lotus_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_005B": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.75,
+            "StaticItemId": "CaveMushroom",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_005C": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.20,
+            "StaticItemId": "PoisonMushroom",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_006A": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.75,
+            "StaticItemId": "CaveMushroom",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_006B": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.20,
+            "StaticItemId": "PoisonMushroom",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_006C": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Lotus_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_007A": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.70,
+            "StaticItemId": "CaveMushroom",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_007B": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PoisonMushroom",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_007C": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Lotus_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_008A": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.60,
+            "StaticItemId": "CaveMushroom",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_008B": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.35,
+            "StaticItemId": "PoisonMushroom",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_008C": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Lotus_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_009A": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "CaveMushroom",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_009B": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "PoisonMushroom",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_009C": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Lotus_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_010A": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "CaveMushroom",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_010B": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "PoisonMushroom",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "MushroomDragon_DarkRanch_010C": {
+            "FieldName": "CharacterSpawnItem_MushroomDragon_Dark_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Lotus_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_001A": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "CaveBMushroom",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_001B": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_1",
+            "SlotNo": 1,
+            "WeightInSlot": 0.20,
+            "StaticItemId": "PoisonBMushroom",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_002A": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.80,
+            "StaticItemId": "CaveBMushroom",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_002B": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_2",
+            "SlotNo": 1,
+            "WeightInSlot": 0.20,
+            "StaticItemId": "PoisonBMushroom",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBMushroomDragon_DarkRanch_003A": {
+            "FieldName": "CharacterSpawnItem_BBMushroomDragon_Dark_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.01,
+            "StaticItemId": "Lotus_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_003B": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.79,
+            "StaticItemId": "CaveBMushroom",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_003C": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_3",
+            "SlotNo": 1,
+            "WeightInSlot": 0.20,
+            "StaticItemId": "PoisonBMushroom",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BBMushroomDragon_DarkRanch_004A": {
+            "FieldName": "CharacterSpawnItem_BBMushroomDragon_Dark_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Lotus_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_004B": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.75,
+            "StaticItemId": "CaveBMushroom",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_004C": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_4",
+            "SlotNo": 1,
+            "WeightInSlot": 0.20,
+            "StaticItemId": "PoisonBMushroom",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_005A": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Lotus_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_005B": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.75,
+            "StaticItemId": "CaveBMushroom",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_005C": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_5",
+            "SlotNo": 1,
+            "WeightInSlot": 0.20,
+            "StaticItemId": "PoisonBMushroom",
+            "MinNum": 1,
+            "MaxNum": 5,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_006A": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.75,
+            "StaticItemId": "CaveBMushroom",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_006B": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.20,
+            "StaticItemId": "PoisonBMushroom",
+            "MinNum": 1,
+            "MaxNum": 6,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_006C": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_6",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Lotus_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_007A": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.70,
+            "StaticItemId": "CaveBMushroom",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_007B": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.25,
+            "StaticItemId": "PoisonBMushroom",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_007C": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_7",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Lotus_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_008A": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.60,
+            "StaticItemId": "CaveBMushroom",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_008B": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.35,
+            "StaticItemId": "PoisonBMushroom",
+            "MinNum": 1,
+            "MaxNum": 4,
+            "NumUnit": 2,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_008C": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_8",
+            "SlotNo": 1,
+            "WeightInSlot": 0.05,
+            "StaticItemId": "Lotus_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_009A": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "CaveBMushroom",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_009B": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "PoisonBMushroom",
+            "MinNum": 1,
+            "MaxNum": 3,
+            "NumUnit": 3,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_009C": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_9",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Lotus_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_010A": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "CaveBMushroom",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_010B": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.45,
+            "StaticItemId": "PoisonBMushroom",
+            "MinNum": 1,
+            "MaxNum": 2,
+            "NumUnit": 5,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        },
+        "BMushroomDragon_DarkRanch_010C": {
+            "FieldName": "CharacterSpawnItem_BMushroomDragon_Dark_10",
+            "SlotNo": 1,
+            "WeightInSlot": 0.10,
+            "StaticItemId": "Lotus_hp_01",
+            "MinNum": 1,
+            "MaxNum": 1,
+            "NumUnit": 1,
+            "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+        }
+    }
+}
